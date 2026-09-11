@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#1a1d1a"/>
+  <rect x="20" y="20" width="472" height="472" rx="48" fill="none" stroke="#5a6b4e" stroke-width="8"/>
+  <text x="256" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-size="160" fill="#b8941f">M</text>
+  <text x="256" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-size="160" fill="none" stroke="#5a6b4e" stroke-width="3">M</text>
+  <text x="256" y="340" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="56" fill="#b8941f">MIL</text>
+  <line x1="120" y1="360" x2="392" y2="360" stroke="#5a6b4e" stroke-width="4"/>
+  <text x="256" y="420" text-anchor="middle" font-family="Arial,sans-serif" font-weight="600" font-size="40" fill="#a0a0a0">MULTIPLIER</text>
+  <polygon points="256,60 268,95 305,95 275,118 285,155 256,135 227,155 237,118 207,95 244,95" fill="#b8941f"/>
+</svg>

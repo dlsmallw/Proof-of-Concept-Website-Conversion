@@ -1,0 +1,303 @@
+{
+  "blog": {
+    "brs-vs-high-3-retirement": {
+      "title": "BRS vs High-3 Retirement",
+      "description": {
+        "name": "description",
+        "content": "Compare BRS and High-3 military retirement systems side by side. See which pays more at 20, 25, and 30 years with real dollar amounts for enlisted and officers."
+      },
+      "createdDate": "2025-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "featured": true,
+      "urgentUpdate": false,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/brs-vs-high-3-retirement"
+      },
+      "faq": [
+        {
+          "question": "What is the difference between BRS and High-3 retirement?",
+          "answer": "High-3 pays 50% of your highest 36 months of base pay at 20 years with 2.5% per year multiplier. BRS (Blended Retirement System) pays 40% at 20 years with a 2.0% multiplier, but adds government TSP matching up to 5% of base pay and a mid-career continuation pay bonus. BRS benefits those who serve less than 20 years; High-3 benefits 20+ year retirees."
+        },
+        {
+          "question": "Which is better, BRS or High-3?",
+          "answer": "High-3 is better if you serve 20+ years due to the higher 50% multiplier. BRS is better if you might leave before 20 years, since you keep government TSP matching (up to 5%) regardless of when you separate. The breakeven point depends on rank, TSP contributions, and investment returns, but most analysis shows High-3 wins for 20-year retirees by $200,000-$500,000 in lifetime pension value."
+        }
+      ]
+    },
+    "gi-bill-bah-rates-by-school-zip": {
+      "title": "GI Bill BAH Rates by School Zip",
+      "description": {
+        "name": "description",
+        "content": "The GI Bill housing allowance is often worth more than tuition. An in-person student in San Francisco gets $4,200/month vs $1,054 online. School location is a $50,000-$100,000 decision."
+      },
+      "createdDate": "2026-03-01",
+      "updatedDate": null,
+      "readTime": 7,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/gi-bill-bah-rates-school-zip"
+      },
+      "faq": []
+    },
+    "gi-bill-for-flight-school": {
+      "title": "GI Bill for Flight School",
+      "description": {
+        "name": "description",
+        "content": "The GI Bill can cover flight training at approved Part 141 schools. Here's how it works, what's covered, what's not, and how to avoid the common pitfalls."
+      },
+      "createdDate": "2026-03-01",
+      "updatedDate": null,
+      "readTime": 7,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/gi-bill-for-flight-school"
+      },
+      "faq": []
+    },
+    "how-much-does-an-e5-really-make": {
+      "title": "How Much Does an E5 Really Make",
+      "description": {
+        "name": "description",
+        "content": "E-5 total compensation breakdown for 2026 including base pay, BAH, BAS, benefits, and tax advantages. Most E-5s earn $55K-$75K in total compensation."
+      },
+      "createdDate": "2025-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/how-much-does-an-e5-really-make"
+      },
+      "faq": []
+    },
+    "military-tax-advantages-you-are-missing": {
+      "title": "Military Tax Advantages You Are Missing",
+      "description": {
+        "name": "description",
+        "content": "The tax advantages of military pay most service members overlook. BAH and BAS tax exemptions, combat zone exclusions, TSP benefits, and state tax strategies."
+      },
+      "createdDate": "2025-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/military-tax-advantages-you-are-missing"
+      },
+      "faq": []
+    },
+    "military-to-civilian-transition-checklist": {
+      "title": "Military To Civilian Transition Checklist",
+      "description": {
+        "name": "description",
+        "content": "Complete 12-month financial checklist for military to civilian transition. Covers savings targets, VA claims, TSP decisions, insurance, and career preparation."
+      },
+      "createdDate": "2025-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/military-to-civilian-transition-checklist"
+      },
+      "faq": []
+    },
+    "montgomery-gi-bill-vs-post-911": {
+      "title": "Montgomery GI Bill vs Post 911",
+      "description": {
+        "name": "description",
+        "content": "Most veterans should use the Post-9/11 GI Bill. But there are 3 specific situations where the Montgomery GI Bill (Chapter 30) pays more. Here's how to know which is right for you."
+      },
+      "createdDate": "2026-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/montgomery-gi-bill-vs-post-911"
+      },
+      "faq": []
+    },
+    "pcs-financial-planning-guide": {
+      "title": "PCS Financial Planning Guide",
+      "description": {
+        "name": "description",
+        "content": "Financial planning guide for military PCS moves. How to handle BAH changes, DLA, DITY moves, housing timing, and avoid the most common money mistakes."
+      },
+      "createdDate": "2025-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/pcs-financial-planning-guide"
+      },
+      "faq": []
+    },
+    "post-911-gi-bill-explained": {
+      "title": "Post 911 GI Bill Explained",
+      "description": {
+        "name": "description",
+        "content": "The Post-9/11 GI Bill is worth $100K-$300K+. Full breakdown of tuition coverage, monthly housing allowance, book stipend, eligibility tiers, transfer rules, and how to maximize the benefit."
+      },
+      "createdDate": "2026-03-01",
+      "updatedDate": null,
+      "readTime": 8,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/post-911-gi-bill-explained"
+      },
+      "faq": []
+    },
+    "should-i-stay-to-20-years": {
+      "title": "Should I Stay to 20 Years",
+      "description": {
+        "name": "description",
+        "content": "The financial math behind staying to 20 years for military retirement. Compare pension value, VA disability, and civilian earning potential to make an informed decision."
+      },
+      "createdDate": "2025-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/should-i-stay-to-20-years"
+      },
+      "faq": []
+    },
+    "ta-vs-gi-bill-vs-vre": {
+      "title": "TA vs GI Bill vs VRE",
+      "description": {
+        "name": "description",
+        "content": "The complete decision tree for military education benefits. When to use Tuition Assistance, when to save the GI Bill, and how VR&E changes everything. Strategy worth $300K-$500K+."
+      },
+      "createdDate": "2025-03-01",
+      "updatedDate": null,
+      "readTime": 7,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/ta-vs-gi-bill-vs-vre"
+      },
+      "faq": []
+    },
+    "va-disability-filing-before-separation": {
+      "title": "VA Disability Filing Before Separation",
+      "description": {
+        "name": "description",
+        "content": "Why filing for VA disability before separation is critical. How Benefits Delivery at Discharge works, timeline tips, and the biggest mistake veterans make."
+      },
+      "createdDate": "2025-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/va-disability-filing-before-separation"
+      },
+      "faq": []
+    },
+    "vet-tec-free-tech-training": {
+      "title": "VET TEC Free Tech Training",
+      "description": {
+        "name": "description",
+        "content": "VET TEC covered full tuition at tech bootcamps plus full BAH using zero GI Bill months. The pilot ended April 2024 — here's what happened, what's next, and alternatives while it's paused."
+      },
+      "createdDate": "2026-03-01",
+      "updatedDate": null,
+      "readTime": 6,
+      "urgentUpdate": true,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/vet-tec-free-tech-training"
+      },
+      "faq": []
+    },
+    "vre-and-gi-bill-together": {
+      "title": "VRE and GI Bill Together",
+      "description": {
+        "name": "description",
+        "content": "You can't use VR&E and GI Bill simultaneously, but sequencing them adds up to 84 months of education. Here's how to use both for maximum value."
+      },
+      "createdDate": "2026-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/vre-and-gi-bill-together"
+      },
+      "faq": []
+    },
+    "vre-chapter-31-explained": {
+      "title": "VRE Chapter 31 Explained",
+      "description": {
+        "name": "description",
+        "content": "VR&E covers unlimited tuition for 48 months, pays housing, provides a laptop, books, tutoring, and job placement. Most eligible veterans never apply. Here's everything you need to know."
+      },
+      "createdDate": "2026-03-01",
+      "updatedDate": null,
+      "readTime": 10,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/vre-chapter-31-explained"
+      },
+      "faq": []
+    },
+    "vre-self-employment-track": {
+      "title": "VRE Self Employment Track",
+      "description": {
+        "name": "description",
+        "content": "VR&E Track 3 provides business plan development, tools, equipment, inventory, supplies, and professional consulting to help disabled veterans start their own business. Here's how it works."
+      },
+      "createdDate": "2026-03-01",
+      "updatedDate": null,
+      "readTime": 6,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/vre-self-employment-track"
+      },
+      "faq": []
+    },
+    "what-civilian-salary-do-i-need": {
+      "title": "What Civilian Salary Do I Need",
+      "description": {
+        "name": "description",
+        "content": "How to calculate the civilian salary needed to replace your military compensation. Most veterans need 40-70% more than base pay to maintain their lifestyle."
+      },
+      "createdDate": "2025-03-01",
+      "updatedDate": null,
+      "readTime": 5,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/blog/what-civilian-salary-do-i-need"
+      },
+      "faq": []
+    }
+  },
+  "site": {
+    "about": {
+      "title": "About",
+      "description": "Mil-Multiplier was built by an active-duty Army E-7 with 10 years of service. Real tools built from real experience — because military pay is more complicated than it should be.",
+      "createdDate": null,
+      "updatedDate": null,
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/about"
+      }
+    },
+    "privacy-policy": {
+      "title": "Privacy Policy",
+      "description": "Privacy policy for Mil-Multiplier military compensation calculators and tools. How we handle your data, cookies, and third-party services.",
+      "createdDate": "2025-01-01",
+      "updatedDate": "2026-03-01",
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/privacy-policy"
+      }
+    },
+    "terms-of-service": {
+      "title": "Terms of Service",
+      "description": "Terms of service for Mil-Multiplier military compensation calculators. Disclaimers, limitations, and conditions of use.",
+      "createdDate": "2025-01-01",
+      "updatedDate": "2026-03-01",
+      "link": {
+        "rel": "canonical",
+        "href": "https://milmultiplier.com/terms-of-service"
+      }
+    }
+  }
+}

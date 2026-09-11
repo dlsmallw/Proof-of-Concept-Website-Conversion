@@ -1,0 +1,2497 @@
+{
+    "year": 2026,
+    "source": "Official DoD OCONUS COLA rates via DTMO. Indices as of Jan 2026, spendable income tables CY2025.",
+    "yosBreakpoints": [
+        0,
+        2,
+        3,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        30,
+        34,
+        38,
+        40
+    ],
+    "basePay": {
+        "E-1": [
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2,
+            1997.2
+        ],
+        "E-2": [
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5,
+            2239.5
+        ],
+        "E-3": [
+            2354.7,
+            2503.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5,
+            2656.5
+        ],
+        "E-4": [
+            2607.3,
+            2742.3,
+            2877.9,
+            3013.2,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8,
+            3148.8
+        ],
+        "E-5": [
+            2844.3,
+            3035.1,
+            3170.1,
+            3304.8,
+            3539.7,
+            3776.1,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7,
+            3983.7
+        ],
+        "E-6": [
+            3104.1,
+            3416.7,
+            3551.4,
+            3686.7,
+            3821.4,
+            4157.1,
+            4291.5,
+            4428.9,
+            4562.1,
+            4629,
+            4697.1,
+            4697.1,
+            4697.1,
+            4697.1,
+            4697.1,
+            4697.1,
+            4697.1,
+            4697.1,
+            4697.1
+        ],
+        "E-7": [
+            3590.7,
+            3919.2,
+            4054.2,
+            4252.8,
+            4388.4,
+            4655.7,
+            4791.3,
+            5058.3,
+            5259,
+            5394.3,
+            5527.2,
+            5594.1,
+            5594.1,
+            5594.1,
+            5594.1,
+            5594.1,
+            5594.1,
+            5594.1,
+            5594.1
+        ],
+        "E-8": [
+            0,
+            4536.9,
+            4737,
+            4871.4,
+            5073.6,
+            5341.2,
+            5543.1,
+            5810.4,
+            5944.8,
+            6080.1,
+            6280.5,
+            6414.9,
+            6618.3,
+            6618.3,
+            6618.3,
+            6618.3,
+            6618.3,
+            6618.3,
+            6618.3
+        ],
+        "E-9": [
+            0,
+            0,
+            5789.1,
+            5925,
+            6127.2,
+            6396.6,
+            6598.5,
+            6867.6,
+            7068,
+            7270.8,
+            7539.3,
+            7741.5,
+            8012.4,
+            8215.8,
+            8487,
+            8823.9,
+            9160.5,
+            9497.7,
+            9665.7
+        ],
+        "W-1": [
+            3789.9,
+            4200.3,
+            4310.1,
+            4534.8,
+            4738.8,
+            5009.1,
+            5211.6,
+            5479.2,
+            5748,
+            5947.8,
+            6147,
+            6348,
+            6616.5,
+            6816,
+            7084.8,
+            7084.8,
+            7084.8,
+            7084.8,
+            7084.8
+        ],
+        "W-2": [
+            4318.2,
+            4724.4,
+            4853.7,
+            4961.1,
+            5202,
+            5607,
+            5810.7,
+            6011.7,
+            6279,
+            6478.8,
+            6679.8,
+            6878.4,
+            7079.1,
+            7346.7,
+            7545.6,
+            7545.6,
+            7545.6,
+            7545.6,
+            7545.6
+        ],
+        "W-3": [
+            4902.3,
+            5106,
+            5312.7,
+            5380.8,
+            5594.1,
+            6011.7,
+            6348.3,
+            6549,
+            6815.7,
+            7016.7,
+            7283.1,
+            7550.1,
+            7751.4,
+            7953.3,
+            8222.1,
+            8490.6,
+            8692.2,
+            8692.2,
+            8692.2
+        ],
+        "W-4": [
+            5358.3,
+            5763.9,
+            5936.7,
+            6005.7,
+            6279,
+            6682.5,
+            7019.1,
+            7288.2,
+            7556.4,
+            7823.7,
+            8091.6,
+            8358.3,
+            8559.3,
+            8827.8,
+            9095.7,
+            9363.6,
+            9564.3,
+            9765.3,
+            9765.3
+        ],
+        "W-5": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            8833.8,
+            9168.6,
+            9437.7,
+            9773.4,
+            10108.5,
+            10444.2,
+            10779.6,
+            11115.3
+        ],
+        "O-1": [
+            3826.2,
+            3982.8,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815,
+            4815
+        ],
+        "O-2": [
+            4407,
+            5018.7,
+            5779.8,
+            5979,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7,
+            6101.7
+        ],
+        "O-3": [
+            5100,
+            5782.8,
+            6242.1,
+            6812.7,
+            7143,
+            7505.1,
+            7736.7,
+            8105.4,
+            8339.1,
+            8339.1,
+            8339.1,
+            8339.1,
+            8339.1,
+            8339.1,
+            8339.1,
+            8339.1,
+            8339.1,
+            8339.1,
+            8339.1
+        ],
+        "O-4": [
+            5802,
+            6714,
+            7165.2,
+            7266,
+            7685.4,
+            8120.7,
+            8673.3,
+            9091.5,
+            9392.4,
+            9693,
+            9927,
+            10027.8,
+            10027.8,
+            10027.8,
+            10027.8,
+            10027.8,
+            10027.8,
+            10027.8,
+            10027.8
+        ],
+        "O-5": [
+            6740.4,
+            7594.2,
+            8119.8,
+            8214.6,
+            8542.5,
+            8736.3,
+            9169.8,
+            9504.3,
+            9905.4,
+            10305.9,
+            10572.9,
+            10773.3,
+            11040.6,
+            11040.6,
+            11040.6,
+            11040.6,
+            11040.6,
+            11040.6,
+            11040.6
+        ],
+        "O-6": [
+            8092.8,
+            8880.9,
+            9461.7,
+            9461.7,
+            9497.7,
+            9905.7,
+            9971.1,
+            9971.1,
+            10372.5,
+            11140.2,
+            11708.7,
+            12276.6,
+            12611.4,
+            12879.3,
+            13516.2,
+            14018.1,
+            14018.1,
+            14018.1,
+            14018.1
+        ],
+        "O-7": [
+            10671,
+            11163.6,
+            11389.8,
+            11572.5,
+            11904.9,
+            12236.7,
+            12570,
+            12902.1,
+            13234.2,
+            14436.6,
+            15438.9,
+            15438.9,
+            15438.9,
+            15438.9,
+            15438.9,
+            15438.9,
+            15438.9,
+            15438.9,
+            16211.1
+        ],
+        "O-1E": [
+            4815,
+            5148.9,
+            5346.6,
+            5546.7,
+            5747.4,
+            6014.7,
+            6214.8,
+            6414.9,
+            6615,
+            6615,
+            6615,
+            6615,
+            6615,
+            6615,
+            6615,
+            6615,
+            6615,
+            6615,
+            6615
+        ],
+        "O-2E": [
+            5979,
+            6181.2,
+            6348.9,
+            6548.7,
+            6880.8,
+            7148.1,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8,
+            7348.8
+        ],
+        "O-3E": [
+            6812.7,
+            7079.1,
+            7345.8,
+            7547.1,
+            7881.3,
+            8215.8,
+            8416.2,
+            8684.7,
+            8884.8,
+            8884.8,
+            8884.8,
+            8884.8,
+            8884.8,
+            8884.8,
+            8884.8,
+            8884.8,
+            8884.8,
+            8884.8,
+            8884.8
+        ]
+    },
+    "spendableTable": [
+        {
+            "minIncome": 0,
+            "maxIncome": 69999,
+            "spendable": [
+                27600,
+                31100,
+                34500,
+                36200,
+                39700,
+                41400
+            ]
+        },
+        {
+            "minIncome": 70000,
+            "maxIncome": 74999,
+            "spendable": [
+                28600,
+                32200,
+                35800,
+                37600,
+                41200,
+                43000
+            ]
+        },
+        {
+            "minIncome": 75000,
+            "maxIncome": 79999,
+            "spendable": [
+                29700,
+                33400,
+                37100,
+                39000,
+                42700,
+                44500
+            ]
+        },
+        {
+            "minIncome": 80000,
+            "maxIncome": 84999,
+            "spendable": [
+                30700,
+                34600,
+                38400,
+                40300,
+                44200,
+                46100
+            ]
+        },
+        {
+            "minIncome": 85000,
+            "maxIncome": 89999,
+            "spendable": [
+                31700,
+                35600,
+                39600,
+                41600,
+                45500,
+                47500
+            ]
+        },
+        {
+            "minIncome": 90000,
+            "maxIncome": 94999,
+            "spendable": [
+                32600,
+                36700,
+                40800,
+                42800,
+                46900,
+                49000
+            ]
+        },
+        {
+            "minIncome": 95000,
+            "maxIncome": 99999,
+            "spendable": [
+                33600,
+                37800,
+                42000,
+                44100,
+                48300,
+                50400
+            ]
+        },
+        {
+            "minIncome": 100000,
+            "maxIncome": 104999,
+            "spendable": [
+                34600,
+                38900,
+                43200,
+                45400,
+                49700,
+                51800
+            ]
+        },
+        {
+            "minIncome": 105000,
+            "maxIncome": 109999,
+            "spendable": [
+                35500,
+                40000,
+                44400,
+                46600,
+                51100,
+                53300
+            ]
+        },
+        {
+            "minIncome": 110000,
+            "maxIncome": 114999,
+            "spendable": [
+                36400,
+                41000,
+                45500,
+                47800,
+                52300,
+                54600
+            ]
+        },
+        {
+            "minIncome": 115000,
+            "maxIncome": 119999,
+            "spendable": [
+                37400,
+                42000,
+                46700,
+                49000,
+                53700,
+                56000
+            ]
+        },
+        {
+            "minIncome": 120000,
+            "maxIncome": 124999,
+            "spendable": [
+                38200,
+                43000,
+                47800,
+                50200,
+                55000,
+                57400
+            ]
+        },
+        {
+            "minIncome": 125000,
+            "maxIncome": 129999,
+            "spendable": [
+                39100,
+                44000,
+                48900,
+                51300,
+                56200,
+                58700
+            ]
+        },
+        {
+            "minIncome": 130000,
+            "maxIncome": 134999,
+            "spendable": [
+                40000,
+                45000,
+                50000,
+                52500,
+                57500,
+                60000
+            ]
+        },
+        {
+            "minIncome": 135000,
+            "maxIncome": 139999,
+            "spendable": [
+                40800,
+                45900,
+                51000,
+                53600,
+                58600,
+                61200
+            ]
+        },
+        {
+            "minIncome": 140000,
+            "maxIncome": 144999,
+            "spendable": [
+                41700,
+                46900,
+                52100,
+                54700,
+                59900,
+                62500
+            ]
+        },
+        {
+            "minIncome": 145000,
+            "maxIncome": 149999,
+            "spendable": [
+                42500,
+                47800,
+                53100,
+                55800,
+                61100,
+                63700
+            ]
+        },
+        {
+            "minIncome": 150000,
+            "maxIncome": 154999,
+            "spendable": [
+                43300,
+                48700,
+                54100,
+                56800,
+                62200,
+                64900
+            ]
+        },
+        {
+            "minIncome": 155000,
+            "maxIncome": 159999,
+            "spendable": [
+                44100,
+                49600,
+                55100,
+                57900,
+                63400,
+                66100
+            ]
+        },
+        {
+            "minIncome": 160000,
+            "maxIncome": 164999,
+            "spendable": [
+                44800,
+                50400,
+                56000,
+                58800,
+                64400,
+                67200
+            ]
+        },
+        {
+            "minIncome": 165000,
+            "maxIncome": 169999,
+            "spendable": [
+                45600,
+                51300,
+                57000,
+                59900,
+                65600,
+                68400
+            ]
+        },
+        {
+            "minIncome": 170000,
+            "maxIncome": 174999,
+            "spendable": [
+                46300,
+                52100,
+                57900,
+                60800,
+                66600,
+                69500
+            ]
+        },
+        {
+            "minIncome": 175000,
+            "maxIncome": 179999,
+            "spendable": [
+                47000,
+                52900,
+                58800,
+                61700,
+                67600,
+                70600
+            ]
+        },
+        {
+            "minIncome": 180000,
+            "maxIncome": 999999999,
+            "spendable": [
+                47800,
+                53700,
+                59700,
+                62700,
+                68700,
+                71600
+            ]
+        }
+    ],
+    "locations": [
+        {
+            "country": "Alaska",
+            "locality": "Anchorage (Incl Eagle River)",
+            "code": "AK005",
+            "index": 128,
+            "effectiveDate": "2025-11-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Barrow",
+            "code": "AK013",
+            "index": 140,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Bethel",
+            "code": "AK017",
+            "index": 148,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Clear AFS",
+            "code": "AK020",
+            "index": 134,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "College",
+            "code": "AK021",
+            "index": 132,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Cordova",
+            "code": "AK025",
+            "index": 148,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Delta Junction (Incl Ft. Greely)",
+            "code": "AK029",
+            "index": 134,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Eielson AFB",
+            "code": "AK040",
+            "index": 132,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Fairbanks",
+            "code": "AK049",
+            "index": 132,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Homer (incl Anchor Point)",
+            "code": "AK073",
+            "index": 140,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Juneau",
+            "code": "AK077",
+            "index": 136,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Kenai (Incl Soldotna)",
+            "code": "AK081",
+            "index": 140,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Ketchikan",
+            "code": "AK085",
+            "index": 134,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "King Salmon (Incl Bristol Bay Borough)",
+            "code": "AK309",
+            "index": 140,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Kodiak",
+            "code": "AK089",
+            "index": 134,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Nome",
+            "code": "AK101",
+            "index": 140,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Petersburg",
+            "code": "AK113",
+            "index": 140,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Seward",
+            "code": "AK133",
+            "index": 144,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Sitka-Mt. Edgecombe",
+            "code": "AK145",
+            "index": 138,
+            "effectiveDate": "2025-11-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Spruce Cape",
+            "code": "AK153",
+            "index": 132,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Tok",
+            "code": "AK162",
+            "index": 134,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Unalaska",
+            "code": "AK163",
+            "index": 132,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Valdez",
+            "code": "AK161",
+            "index": 138,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Wainwright",
+            "code": "AK165",
+            "index": 140,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Wasilla",
+            "code": "AK168",
+            "index": 128,
+            "effectiveDate": "2025-11-16"
+        },
+        {
+            "country": "Alaska",
+            "locality": "Other",
+            "code": "AK177",
+            "index": 140,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Hawaii",
+            "locality": "Hawaii Island",
+            "code": "HI001",
+            "index": 132,
+            "effectiveDate": "2025-07-16"
+        },
+        {
+            "country": "Hawaii",
+            "locality": "Kauai",
+            "code": "HI003",
+            "index": 126,
+            "effectiveDate": "2025-07-16"
+        },
+        {
+            "country": "Hawaii",
+            "locality": "Maui",
+            "code": "HI005",
+            "index": 124,
+            "effectiveDate": "2025-07-16"
+        },
+        {
+            "country": "Hawaii",
+            "locality": "Molokai",
+            "code": "HI007",
+            "index": 124,
+            "effectiveDate": "2025-07-16"
+        },
+        {
+            "country": "Hawaii",
+            "locality": "Oahu",
+            "code": "HI009",
+            "index": 120,
+            "effectiveDate": "2025-07-16"
+        },
+        {
+            "country": "Hawaii",
+            "locality": "Other Islands",
+            "code": "HI999",
+            "index": null,
+            "effectiveDate": "1989-11-08"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Aguadilla (incl CG AS Borinquen)",
+            "code": "PR001",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Arecibo",
+            "code": "PR005",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Caguas",
+            "code": "PR015",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Cayey",
+            "code": "PR025",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Ceibas",
+            "code": "PR026",
+            "index": 118,
+            "effectiveDate": "2025-11-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Fajardo",
+            "code": "PR030",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Guayama",
+            "code": "PR040",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Guaynabo",
+            "code": "PR045",
+            "index": 124,
+            "effectiveDate": "2025-03-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Humacao",
+            "code": "PR050",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Isabela",
+            "code": "PR053",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Luquillo",
+            "code": "PR055",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Mayaguez",
+            "code": "PR060",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Ponce (Incl Ft. Allen And Camp Santiago)",
+            "code": "PR065",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Roosevelt Roads",
+            "code": "PR070",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Sabana Seca",
+            "code": "PR075",
+            "index": 124,
+            "effectiveDate": "2025-03-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "San Juan (incl Bayamon, Carolina, and Fort Buchanan)",
+            "code": "PR080",
+            "index": 124,
+            "effectiveDate": "2025-03-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Vega Baja",
+            "code": "PR085",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Puerto Rico",
+            "locality": "Other",
+            "code": "PR999",
+            "index": 118,
+            "effectiveDate": "2025-05-16"
+        },
+        {
+            "country": "Guam",
+            "locality": "Guam",
+            "code": "GU001",
+            "index": 122,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Virgin Islands",
+            "locality": "St. Croix",
+            "code": "VI001",
+            "index": 128,
+            "effectiveDate": "2025-03-01"
+        },
+        {
+            "country": "Virgin Islands",
+            "locality": "St. Thomas",
+            "code": "VI005",
+            "index": 138,
+            "effectiveDate": "2025-03-01"
+        },
+        {
+            "country": "Virgin Islands",
+            "locality": "St. John",
+            "code": "VI999",
+            "index": 128,
+            "effectiveDate": "2025-03-01"
+        },
+        {
+            "country": "American Samoa",
+            "locality": "American Samoa",
+            "code": "AS001",
+            "index": 116,
+            "effectiveDate": "2025-01-16"
+        },
+        {
+            "country": "Northern Mariana Islands",
+            "locality": "Northern Mariana Islands",
+            "code": "MP001",
+            "index": 122,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Atsugi (incl Totsuka)",
+            "code": "JP041",
+            "index": 104,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Camp Fuji",
+            "code": "JP067",
+            "index": 102,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Camp Zama",
+            "code": "JP045",
+            "index": 104,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Eta Jima Island (incl Akizuki)",
+            "code": "JP003",
+            "index": 102,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Gifu",
+            "code": "JP009",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Hamamatsu",
+            "code": "JP011",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Hyakuri AB",
+            "code": "JP015",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Iwakuni",
+            "code": "JP019",
+            "index": 102,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Kamiseya",
+            "code": "JP049",
+            "index": 104,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Kawasaki",
+            "code": "JP016",
+            "index": 110,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Kichijoji",
+            "code": "JP073",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Komaki",
+            "code": "JP022",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Kumamoto",
+            "code": "JP018",
+            "index": 110,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Kure",
+            "code": "JP021",
+            "index": 102,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Kyoto",
+            "code": "JP072",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Misawa",
+            "code": "JP023",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Nyutabaru AB",
+            "code": "JP029",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Okinawa",
+            "code": "JP027",
+            "index": 102,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Osaka-Kobe",
+            "code": "JP031",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Sapporo",
+            "code": "JP069",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Sasebo",
+            "code": "JP035",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Sendai",
+            "code": "JP052",
+            "index": 110,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Shariki",
+            "code": "JP106",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Tokyo",
+            "code": "JP053",
+            "index": 110,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Yokohama",
+            "code": "JP057",
+            "index": 110,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Yokosuka",
+            "code": "JP061",
+            "index": 110,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Yokota",
+            "code": "JP065",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Other Chiba Pref",
+            "code": "JP007",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Other Kanagawa Pref",
+            "code": "JP998",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Other Kyoto Pref",
+            "code": "JP034",
+            "index": 116,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Other Saitama Pref",
+            "code": "JP033",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Other Tokyo Pref",
+            "code": "JP077",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Japan",
+            "locality": "Other Locations",
+            "code": "JP080",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Camp Yongin",
+            "code": "KR078",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "United Changwon City (Chinhae, Changwon, Masan)",
+            "code": "KR005",
+            "index": 102,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Chunchon",
+            "code": "KR007",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Daegu/Waegwan (Incl Camp Carroll, Camp Henry, And Camp Walker)",
+            "code": "KR045",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Dongducheon (incl. Camp Casey)",
+            "code": "KR177",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Inchon",
+            "code": "KR010",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Kimhae",
+            "code": "KR015",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Kunsan AB",
+            "code": "KR070",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Kwanju AB",
+            "code": "KR017",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Munsan",
+            "code": "KR178",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Osan AB (incl Camp Humphreys)",
+            "code": "KR025",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Pusan",
+            "code": "KR030",
+            "index": 112,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Seoul (K-16Fld/C.Mercer/Site Tango & 33)",
+            "code": "KR140",
+            "index": 104,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Suwon",
+            "code": "KR050",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Taejon",
+            "code": "KR047",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Uijungbu",
+            "code": "KR176",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "USFK Personnel Entitled Seoul Allowances",
+            "code": "KR175",
+            "index": 104,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Weonju",
+            "code": "KR065",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Korea, South",
+            "locality": "Other",
+            "code": "KR999",
+            "index": 108,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Ansbach",
+            "code": "DE228",
+            "index": 130,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Augsburg (Incl Ingolstadt)",
+            "code": "DE103",
+            "index": 144,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Babenhausen",
+            "code": "DE301",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Bamberg",
+            "code": "DE229",
+            "index": 120,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Baumholder (incl Boerfink)",
+            "code": "DE603",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Berlin",
+            "code": "DE201",
+            "index": 152,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Bonn (incl Koln/Bonn Airport)",
+            "code": "DE501",
+            "index": 144,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Bremerhaven (incl Bremen and Nordholtz)",
+            "code": "DE203",
+            "index": 150,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Cologne (incl Dellbrueck, Porz-Wahn)",
+            "code": "DE169",
+            "index": 144,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Frankfurt am Main (Inc Rhein Main AB)",
+            "code": "DE317",
+            "index": 146,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Garmisch",
+            "code": "DE121",
+            "index": 126,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Grafenwoehr/Vilseck",
+            "code": "DE231",
+            "index": 120,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Hamburg",
+            "code": "DE205",
+            "index": 150,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Hannover (incl Wunstorf)",
+            "code": "DE407",
+            "index": 150,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Heidelberg",
+            "code": "DE019",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Hohenfels",
+            "code": "DE230",
+            "index": 120,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Kaiserslautern Military Community",
+            "code": "DE700",
+            "index": 130,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Munich (Incl Furstenfeldbruck)",
+            "code": "DE133",
+            "index": 156,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Nurnberg",
+            "code": "DE137",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Ramstein",
+            "code": "DE700",
+            "index": 130,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Spangdahlem",
+            "code": "DE741",
+            "index": 124,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Stuttgart Military Community",
+            "code": "DE055",
+            "index": 132,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Wiesbaden (incl Bad Kreuznach)",
+            "code": "DE355",
+            "index": 138,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Other Bavaria",
+            "code": "DE153",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Other Baden-Wuertemberg",
+            "code": "DE063",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Other Hesse",
+            "code": "DE359",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "Other Rhineland-Palatinate",
+            "code": "DE655",
+            "index": 144,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Germany",
+            "locality": "All Other Landstates",
+            "code": "DE999",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Italy",
+            "locality": "Aviano",
+            "code": "IT001",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Italy",
+            "locality": "Gaeta",
+            "code": "IT025",
+            "index": 142,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Italy",
+            "locality": "La Maddalena",
+            "code": "IT029",
+            "index": 142,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Italy",
+            "locality": "Livorno (incl Camp Darby)",
+            "code": "IT035",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Italy",
+            "locality": "Milan",
+            "code": "IT038",
+            "index": 150,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Italy",
+            "locality": "Naples",
+            "code": "IT055",
+            "index": 132,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Italy",
+            "locality": "Rome (incl Ciampino Airport)",
+            "code": "IT063",
+            "index": 148,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Italy",
+            "locality": "Sigonella",
+            "code": "IT067",
+            "index": 126,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Italy",
+            "locality": "Vicenza (incl Longare)",
+            "code": "IT073",
+            "index": 122,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Italy",
+            "locality": "Other",
+            "code": "IT100",
+            "index": 142,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "United Kingdom",
+            "locality": "Alconbury",
+            "code": "GB001",
+            "index": 130,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "United Kingdom",
+            "locality": "Croughton",
+            "code": "GB218",
+            "index": 122,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "United Kingdom",
+            "locality": "Fairford",
+            "code": "GB251",
+            "index": 128,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "United Kingdom",
+            "locality": "Lakenheath/Mildenhall",
+            "code": "GB352",
+            "index": 124,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "United Kingdom",
+            "locality": "London, Central",
+            "code": "GB380",
+            "index": 146,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "United Kingdom",
+            "locality": "Menwith Hill",
+            "code": "GB313",
+            "index": 134,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "United Kingdom",
+            "locality": "Other England",
+            "code": "GB883",
+            "index": 130,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "United Kingdom",
+            "locality": "Scotland",
+            "code": "GB884",
+            "index": 132,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "United Kingdom",
+            "locality": "Wales",
+            "code": "GB885",
+            "index": 132,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Spain",
+            "locality": "Madrid",
+            "code": "ES017",
+            "index": 124,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Spain",
+            "locality": "Moron AB",
+            "code": "ES018",
+            "index": 136,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Spain",
+            "locality": "Rota",
+            "code": "ES019",
+            "index": 136,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Spain",
+            "locality": "Other",
+            "code": "ES999",
+            "index": 136,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Belgium",
+            "locality": "Brussels (Brabant Prov)",
+            "code": "BE015",
+            "index": 148,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Belgium",
+            "locality": "SHAPE (Hainaut Prov incl Chievres)",
+            "code": "BE019",
+            "index": 130,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Belgium",
+            "locality": "Other",
+            "code": "BE999",
+            "index": 148,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Netherlands",
+            "locality": "The Hague",
+            "code": "NL009",
+            "index": 134,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Netherlands",
+            "locality": "Other",
+            "code": "NL999",
+            "index": 146,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Portugal",
+            "locality": "Azores",
+            "code": "PT015",
+            "index": 110,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Portugal",
+            "locality": "Lisbon",
+            "code": "PT002",
+            "index": 140,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Portugal",
+            "locality": "Other",
+            "code": "PT999",
+            "index": 138,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Turkey",
+            "locality": "Adana (incl Incirlik AB)",
+            "code": "TR001",
+            "index": null,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Turkey",
+            "locality": "Ankara",
+            "code": "TR003",
+            "index": 106,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Turkey",
+            "locality": "Istanbul",
+            "code": "TR005",
+            "index": 112,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Turkey",
+            "locality": "Izmir",
+            "code": "TR007",
+            "index": 114,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Turkey",
+            "locality": "Other",
+            "code": "TR999",
+            "index": 114,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Greece",
+            "locality": "Athens (Attica Dept)",
+            "code": "GR003",
+            "index": 134,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Greece",
+            "locality": "Souda Bay",
+            "code": "GR001",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Greece",
+            "locality": "Other",
+            "code": "GR999",
+            "index": 128,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Bahrain",
+            "locality": "Bahrain",
+            "code": "BH001",
+            "index": 128,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Qatar",
+            "locality": "Qatar",
+            "code": "QA999",
+            "index": 132,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Kuwait",
+            "locality": "Kuwait",
+            "code": "KW999",
+            "index": 118,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "United Arab Emirates",
+            "locality": "Abu Dhabi",
+            "code": "AE001",
+            "index": 130,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "United Arab Emirates",
+            "locality": "Dubai",
+            "code": "AE014",
+            "index": 134,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "United Arab Emirates",
+            "locality": "Other",
+            "code": "AE999",
+            "index": 130,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Australia",
+            "locality": "Adelaide",
+            "code": "AU023",
+            "index": 142,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Australia",
+            "locality": "Brisbane",
+            "code": "AU039",
+            "index": 132,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Australia",
+            "locality": "Canberra",
+            "code": "AU005",
+            "index": 132,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Australia",
+            "locality": "Darwin",
+            "code": "AU037",
+            "index": 132,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Australia",
+            "locality": "Melbourne",
+            "code": "AU011",
+            "index": 132,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Australia",
+            "locality": "Perth",
+            "code": "AU025",
+            "index": 134,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Australia",
+            "locality": "Sydney",
+            "code": "AU019",
+            "index": 132,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Australia",
+            "locality": "Other",
+            "code": "AU999",
+            "index": 132,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Singapore",
+            "locality": "Singapore",
+            "code": "SG001",
+            "index": 150,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Thailand",
+            "locality": "Bangkok",
+            "code": "TH001",
+            "index": 150,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Thailand",
+            "locality": "Chiang Mai",
+            "code": "TH006",
+            "index": 124,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Thailand",
+            "locality": "Other",
+            "code": "TH011",
+            "index": 104,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Philippines",
+            "locality": "Metropolitan Manila",
+            "code": "PH005",
+            "index": 106,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Philippines",
+            "locality": "Other",
+            "code": "PH999",
+            "index": null,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Diego Garcia",
+            "locality": "Diego Garcia",
+            "code": "DG999",
+            "index": 124,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Djibouti",
+            "locality": "Djibouti",
+            "code": "DJ999",
+            "index": 134,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Cuba",
+            "locality": "NS Guantanamo Bay",
+            "code": "CU005",
+            "index": 108,
+            "effectiveDate": "2025-08-16"
+        },
+        {
+            "country": "Honduras",
+            "locality": "Tegucigalpa",
+            "code": "HN001",
+            "index": 108,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Honduras",
+            "locality": "Other",
+            "code": "HN999",
+            "index": 108,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Canada",
+            "locality": "Calgary",
+            "code": "CA091",
+            "index": 126,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Canada",
+            "locality": "Halifax",
+            "code": "CA029",
+            "index": 122,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Canada",
+            "locality": "Montreal",
+            "code": "CA089",
+            "index": 124,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Canada",
+            "locality": "Ottawa",
+            "code": "CA053",
+            "index": 124,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Canada",
+            "locality": "Toronto",
+            "code": "CA069",
+            "index": 126,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Canada",
+            "locality": "Vancouver (BC)",
+            "code": "CA076",
+            "index": 128,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Canada",
+            "locality": "Victoria",
+            "code": "CA077",
+            "index": 128,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Canada",
+            "locality": "Other",
+            "code": "CA999",
+            "index": 124,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Greenland",
+            "locality": "Pituffik SB",
+            "code": "GL001",
+            "index": 106,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Greenland",
+            "locality": "Other",
+            "code": "GL999",
+            "index": 106,
+            "effectiveDate": "2025-08-01"
+        },
+        {
+            "country": "Iceland",
+            "locality": "Reykjavik",
+            "code": "IS005",
+            "index": 166,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Iceland",
+            "locality": "Other",
+            "code": "IS999",
+            "index": 166,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Norway",
+            "locality": "Oslo",
+            "code": "NO001",
+            "index": 152,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Norway",
+            "locality": "Stavanger",
+            "code": "NO021",
+            "index": 148,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Norway",
+            "locality": "Other",
+            "code": "NO003",
+            "index": 148,
+            "effectiveDate": "2025-09-16"
+        },
+        {
+            "country": "Denmark",
+            "locality": "Copenhagen",
+            "code": "DK003",
+            "index": 164,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Denmark",
+            "locality": "Other",
+            "code": "DK025",
+            "index": 164,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Poland",
+            "locality": "Warsaw",
+            "code": "PL001",
+            "index": 112,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Poland",
+            "locality": "Lask Air Base",
+            "code": "PL002",
+            "index": 114,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Poland",
+            "locality": "Other",
+            "code": "PL999",
+            "index": 112,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Romania",
+            "locality": "Romania",
+            "code": "RO999",
+            "index": 106,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Bulgaria",
+            "locality": "Bulgaria",
+            "code": "BG999",
+            "index": 114,
+            "effectiveDate": "2025-12-01"
+        },
+        {
+            "country": "Israel",
+            "locality": "Tel Aviv",
+            "code": "IL001",
+            "index": 158,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Israel",
+            "locality": "Jerusalem",
+            "code": "IL002",
+            "index": 158,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Israel",
+            "locality": "Other",
+            "code": "IL999",
+            "index": 158,
+            "effectiveDate": "2026-01-01"
+        },
+        {
+            "country": "Jordan",
+            "locality": "Amman",
+            "code": "JO003",
+            "index": 130,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Jordan",
+            "locality": "Other",
+            "code": "JO999",
+            "index": 130,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Egypt",
+            "locality": "Cairo",
+            "code": "EG001",
+            "index": null,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Egypt",
+            "locality": "Other",
+            "code": "EG999",
+            "index": null,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Saudi Arabia",
+            "locality": "Jeddah",
+            "code": "SA003",
+            "index": 132,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Saudi Arabia",
+            "locality": "Other",
+            "code": "SA999",
+            "index": 126,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Switzerland",
+            "locality": "Bern",
+            "code": "CH001",
+            "index": 188,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Switzerland",
+            "locality": "Geneva",
+            "code": "CH005",
+            "index": 176,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Switzerland",
+            "locality": "Zurich",
+            "code": "CH009",
+            "index": 176,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Switzerland",
+            "locality": "Other",
+            "code": "CH999",
+            "index": 176,
+            "effectiveDate": "2025-12-16"
+        },
+        {
+            "country": "Hong Kong",
+            "locality": "Hong Kong",
+            "code": "HK001",
+            "index": 160,
+            "effectiveDate": "2025-10-01"
+        },
+        {
+            "country": "Bermuda",
+            "locality": "Bermuda",
+            "code": "BM001",
+            "index": 162,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Bahamas",
+            "locality": "Nassau",
+            "code": "BS001",
+            "index": 158,
+            "effectiveDate": "2025-01-01"
+        },
+        {
+            "country": "Bahamas",
+            "locality": "Other",
+            "code": "BS999",
+            "index": 122,
+            "effectiveDate": "2025-01-01"
+        }
+    ],
+    "formula": "COLA = spendable(annualPay, dependents) × (locationIndex - 100) / 100 / 12. Barracks w/0 deps: ×0.63"
+}

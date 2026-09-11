@@ -1,0 +1,257 @@
+{
+  "year": 2026,
+  "contributionLimit": 23500,
+  "catchUpLimit": 7500,
+  "catchUpAge": 50,
+  "brs": {
+    "autoContribution": 0.01,
+    "matchTiers": [
+      {
+        "upTo": 0.03,
+        "matchRate": 1.0
+      },
+      {
+        "upTo": 0.05,
+        "matchRate": 0.5
+      }
+    ],
+    "maxMatch": 0.05,
+    "continuationPay": {
+      "minMultiplier": 2.5,
+      "maxMultiplier": 13,
+      "typicalMultiplier": 4,
+      "eligibleYOS": [
+        8,
+        12
+      ],
+      "serviceObligation": 4
+    }
+  },
+  "fundReturns": {
+    "C": {
+      "name": "C Fund (S&P 500)",
+      "avgReturn": 0.102,
+      "description": "Tracks the S&P 500 index"
+    },
+    "S": {
+      "name": "S Fund (Small/Mid Cap)",
+      "avgReturn": 0.107,
+      "description": "Tracks Dow Jones U.S. Completion TSM Index"
+    },
+    "I": {
+      "name": "I Fund (International)",
+      "avgReturn": 0.065,
+      "description": "Tracks MSCI EAFE Index"
+    },
+    "G": {
+      "name": "G Fund (Government Bonds)",
+      "avgReturn": 0.032,
+      "description": "Short-term U.S. Treasury securities"
+    },
+    "F": {
+      "name": "F Fund (Fixed Income)",
+      "avgReturn": 0.042,
+      "description": "Tracks Bloomberg U.S. Aggregate Bond Index"
+    },
+    "L2030": {
+      "name": "L 2030 (Lifecycle)",
+      "avgReturn": 0.065,
+      "description": "Target date 2030"
+    },
+    "L2040": {
+      "name": "L 2040 (Lifecycle)",
+      "avgReturn": 0.078,
+      "description": "Target date 2040"
+    },
+    "L2050": {
+      "name": "L 2050 (Lifecycle)",
+      "avgReturn": 0.085,
+      "description": "Target date 2050"
+    },
+    "L2060": {
+      "name": "L 2060 (Lifecycle)",
+      "avgReturn": 0.090,
+      "description": "Target date 2060"
+    },
+    "L2065": {
+      "name": "L 2065 (Lifecycle)",
+      "avgReturn": 0.092,
+      "description": "Target date 2065"
+    }
+  },
+  "promotionTimelines": {
+    "enlisted": [
+      {
+        "rank": "E-1",
+        "typicalYOS": 0
+      },
+      {
+        "rank": "E-2",
+        "typicalYOS": 0.5
+      },
+      {
+        "rank": "E-3",
+        "typicalYOS": 1.5
+      },
+      {
+        "rank": "E-4",
+        "typicalYOS": 2.5
+      },
+      {
+        "rank": "E-5",
+        "typicalYOS": 4.5
+      },
+      {
+        "rank": "E-6",
+        "typicalYOS": 8
+      },
+      {
+        "rank": "E-7",
+        "typicalYOS": 13
+      },
+      {
+        "rank": "E-8",
+        "typicalYOS": 18
+      },
+      {
+        "rank": "E-9",
+        "typicalYOS": 22
+      }
+    ],
+    "officer": [
+      {
+        "rank": "O-1",
+        "typicalYOS": 0
+      },
+      {
+        "rank": "O-2",
+        "typicalYOS": 2
+      },
+      {
+        "rank": "O-3",
+        "typicalYOS": 4
+      },
+      {
+        "rank": "O-4",
+        "typicalYOS": 10
+      },
+      {
+        "rank": "O-5",
+        "typicalYOS": 16
+      },
+      {
+        "rank": "O-6",
+        "typicalYOS": 22
+      }
+    ],
+    "warrant": [
+      {
+        "rank": "W-1",
+        "typicalYOS": 0
+      },
+      {
+        "rank": "W-2",
+        "typicalYOS": 2
+      },
+      {
+        "rank": "W-3",
+        "typicalYOS": 6
+      },
+      {
+        "rank": "W-4",
+        "typicalYOS": 12
+      },
+      {
+        "rank": "W-5",
+        "typicalYOS": 22
+      }
+    ]
+  },
+  "dla": {
+    "withDependents": {
+      "E-1": 2548.71,
+      "E-2": 2548.71,
+      "E-3": 2548.71,
+      "E-4": 2548.71,
+      "E-5": 2760.40,
+      "E-6": 2760.40,
+      "E-7": 2914.46,
+      "E-8": 2914.46,
+      "E-9": 2914.46,
+      "W-1": 2760.40,
+      "W-2": 2760.40,
+      "W-3": 2914.46,
+      "W-4": 2914.46,
+      "W-5": 2914.46,
+      "O-1": 2760.40,
+      "O-2": 2760.40,
+      "O-3": 2914.46,
+      "O-4": 3329.36,
+      "O-5": 3329.36,
+      "O-6": 3329.36,
+      "O-7": 4439.47,
+      "O-1E": 2760.40,
+      "O-2E": 2914.46,
+      "O-3E": 2914.46
+    },
+    "withoutDependents": {
+      "E-1": 1878.81,
+      "E-2": 1878.81,
+      "E-3": 1878.81,
+      "E-4": 1878.81,
+      "E-5": 2005.32,
+      "E-6": 2005.32,
+      "E-7": 2086.29,
+      "E-8": 2086.29,
+      "E-9": 2086.29,
+      "W-1": 2005.32,
+      "W-2": 2005.32,
+      "W-3": 2086.29,
+      "W-4": 2086.29,
+      "W-5": 2086.29,
+      "O-1": 2005.32,
+      "O-2": 2005.32,
+      "O-3": 2086.29,
+      "O-4": 2381.88,
+      "O-5": 2381.88,
+      "O-6": 2381.88,
+      "O-7": 3170.15,
+      "O-1E": 2005.32,
+      "O-2E": 2086.29,
+      "O-3E": 2086.29
+    }
+  },
+  "weightAllowances": {
+    "E-1": 5000,
+    "E-2": 5000,
+    "E-3": 5000,
+    "E-4": 7000,
+    "E-5": 7000,
+    "E-6": 8000,
+    "E-7": 11000,
+    "E-8": 12000,
+    "E-9": 14500,
+    "W-1": 7000,
+    "W-2": 8000,
+    "W-3": 8500,
+    "W-4": 9000,
+    "W-5": 13000,
+    "O-1": 10000,
+    "O-2": 12500,
+    "O-3": 13000,
+    "O-4": 14000,
+    "O-5": 16000,
+    "O-6": 18000,
+    "O-7": 18000,
+    "O-1E": 10000,
+    "O-2E": 12500,
+    "O-3E": 13000
+  },
+  "maltRate": 0.22,
+  "perDiem": {
+    "conus": 157,
+    "oconus": 182
+  },
+  "tleMaxDays": 14,
+  "ppmPayPercent": 0.95
+}

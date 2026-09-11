@@ -1,0 +1,200 @@
+{
+  "effectiveDate": "2026-01-01",
+  "source": "DoD/DFAS Official Retirement Systems",
+  "systems": {
+    "high3": {
+      "name": "High-3 (Legacy)",
+      "eligibleDates": "Entered service between September 8, 1980 and December 31, 2017",
+      "multiplierPerYear": 0.025,
+      "baseFormula": "Years of Service × 2.5% × Average of Highest 36 Months Base Pay",
+      "minimumYears": 20,
+      "maximumMultiplier": 0.75,
+      "maximumYears": 30,
+      "payBasis": "high36Average",
+      "colaAdjustment": "Full CPI-U (no reduction)",
+      "tspMatching": false,
+      "examples": [
+        {
+          "rank": "E-7",
+          "years": 20,
+          "high36Average": 6010,
+          "multiplier": 0.50,
+          "monthlyGross": 3005,
+          "description": "20 years × 2.5% = 50% of high-3 average"
+        },
+        {
+          "rank": "O-5",
+          "years": 25,
+          "high36Average": 9250,
+          "multiplier": 0.625,
+          "monthlyGross": 5781,
+          "description": "25 years × 2.5% = 62.5% of high-3 average"
+        }
+      ],
+      "taxStatus": "Subject to federal and state income tax (some states exempt)",
+      "notes": "Most common system for active duty retirees. Uses average of highest 36 months of base pay."
+    },
+    "brs": {
+      "name": "BRS (Blended Retirement System)",
+      "eligibleDates": "Entered service on or after January 1, 2018 (or opted in before Dec 31, 2018)",
+      "multiplierPerYear": 0.02,
+      "baseFormula": "Years of Service × 2.0% × Average of Highest 36 Months Base Pay",
+      "minimumYears": 20,
+      "maximumMultiplier": 0.60,
+      "maximumYears": 30,
+      "payBasis": "high36Average",
+      "colaAdjustment": "Full CPI-U (no reduction)",
+      "tspMatching": true,
+      "tspMatchingDetails": {
+        "automatic": "1% automatic contribution (no match required)",
+        "matching": "Up to 4% matching (total 5% with automatic)",
+        "vestingPeriod": "2 years for matching contributions",
+        "contributionLimit2026": 23000
+      },
+      "continuationPay": {
+        "description": "Lump sum bonus at 12 years of service",
+        "multiplier": "2.5 to 13 times monthly base pay (service-specific)",
+        "taxStatus": "Taxable income"
+      },
+      "examples": [
+        {
+          "rank": "E-7",
+          "years": 20,
+          "high36Average": 6010,
+          "multiplier": 0.40,
+          "monthlyGross": 2404,
+          "description": "20 years × 2.0% = 40% of high-3 average (but TSP offsets lower pension)",
+          "estimatedTSP": "Assumes ~$200K+ TSP balance from matching"
+        },
+        {
+          "rank": "O-4",
+          "years": 20,
+          "high36Average": 7900,
+          "multiplier": 0.40,
+          "monthlyGross": 3160,
+          "description": "20 years × 2.0% = 40% of high-3 average"
+        }
+      ],
+      "taxStatus": "Subject to federal and state income tax (some states exempt)",
+      "notes": "Lower pension than High-3, but TSP matching makes up difference. Better for those who separate before 20 years."
+    },
+    "redux": {
+      "name": "REDUX",
+      "eligibleDates": "Entered service between August 1, 1986 and December 31, 2017 AND accepted Career Status Bonus",
+      "csb": {
+        "amount": 30000,
+        "timing": "Paid at 15 years of service",
+        "taxStatus": "Taxable income",
+        "description": "$30,000 lump sum in exchange for reduced retirement"
+      },
+      "multiplierPerYear": 0.025,
+      "baseFormula": "Years of Service × 2.5% × Average of Highest 36 Months Base Pay (with penalty)",
+      "minimumYears": 20,
+      "at20Years": {
+        "multiplier": 0.40,
+        "description": "Reduced to 40% at 20 years (instead of 50%)",
+        "penalty": "10% immediate reduction"
+      },
+      "payBasis": "high36Average",
+      "colaAdjustment": "CPI-U minus 1% (reduced COLA until age 62)",
+      "age62Adjustment": "One-time catch-up adjustment to match High-3, then normal COLA resumes",
+      "tspMatching": false,
+      "examples": [
+        {
+          "rank": "E-7",
+          "years": 20,
+          "high36Average": 6010,
+          "multiplier": 0.40,
+          "monthlyGross": 2404,
+          "csb": 30000,
+          "description": "20 years = 40% (10% penalty). Receives $30K CSB at year 15.",
+          "note": "At age 62, adjusts to match what High-3 would have been"
+        }
+      ],
+      "taxStatus": "Subject to federal and state income tax (some states exempt)",
+      "notes": "Very few people chose this. Penalty at retirement, reduced COLA, but $30K upfront. Not recommended."
+    },
+    "finalPay": {
+      "name": "Final Pay",
+      "eligibleDates": "Entered service before September 8, 1980",
+      "multiplierPerYear": 0.025,
+      "baseFormula": "Years of Service × 2.5% × Final Month Base Pay",
+      "minimumYears": 20,
+      "maximumMultiplier": 0.75,
+      "maximumYears": 30,
+      "payBasis": "finalMonthBasePay",
+      "colaAdjustment": "Full CPI-U (no reduction)",
+      "tspMatching": false,
+      "examples": [
+        {
+          "rank": "E-8",
+          "years": 20,
+          "finalMonthBasePay": 6250,
+          "multiplier": 0.50,
+          "monthlyGross": 3125,
+          "description": "Uses last month's base pay instead of 36-month average"
+        }
+      ],
+      "taxStatus": "Subject to federal and state income tax (some states exempt)",
+      "notes": "Grandfathered system. Very few active retirees under this system. Uses final month instead of high-36 average."
+    }
+  },
+  "generalNotes": {
+    "taxStatus": "All military retirement pay is subject to federal income tax. Some states exempt military retirement (AL, AK, FL, HI, IL, KS, LA, MS, NV, NH, PA, SD, TN, TX, WA, WY).",
+    "vaDisability": "You can receive both military retirement AND VA disability, but there may be an offset depending on your situation.",
+    "socialSecurity": "Military retirement does not reduce Social Security benefits. You can receive both.",
+    "survivors": "Survivor Benefit Plan (SBP) available for 6.5% of gross retirement pay.",
+    "colaAdjustments": "COLA adjustments happen annually in December, based on CPI-U.",
+    "high36Calculation": "High-36 average = sum of highest 36 months of base pay ÷ 36. Does NOT include BAH, BAS, or special pays."
+  },
+  "statesExemptingMilitaryRetirement": [
+    "Alabama",
+    "Alaska",
+    "Florida",
+    "Hawaii",
+    "Illinois",
+    "Kansas",
+    "Louisiana",
+    "Mississippi",
+    "Nevada",
+    "New Hampshire",
+    "Pennsylvania",
+    "South Dakota",
+    "Tennessee",
+    "Texas",
+    "Washington",
+    "Wyoming"
+  ],
+  "partialExemptionStates": {
+    "Arizona": "Up to $3,500 exempt",
+    "Arkansas": "Up to $6,000 exempt",
+    "Colorado": "Up to age 65: $20,000 exempt. Over 65: $24,000 exempt",
+    "Delaware": "Up to $12,500 exempt for age 60+",
+    "Georgia": "Up to $35,000 exempt for age 62+",
+    "Idaho": "Up to $40,068 exempt",
+    "Indiana": "Up to $6,250 exempt",
+    "Iowa": "Fully exempt if disabled",
+    "Kentucky": "Up to $31,110 exempt",
+    "Maryland": "Up to $5,000 exempt (first $15,000 if age 65+)",
+    "Massachusetts": "Up to $2,000 exempt",
+    "Michigan": "Varies by age",
+    "Missouri": "Fully exempt if disabled",
+    "Montana": "Up to $5,270 exempt",
+    "Nebraska": "Up to $5,000 exempt",
+    "New Jersey": "Up to $100,000 exempt (certain conditions)",
+    "New Mexico": "Up to $10,000 exempt",
+    "New York": "Up to $20,000 exempt",
+    "North Carolina": "Up to $35,000 exempt",
+    "North Dakota": "Fully exempt if disabled",
+    "Ohio": "Fully exempt if disabled",
+    "Oklahoma": "Up to $75,000 exempt for age 65+",
+    "Oregon": "Varies by year of entry",
+    "Rhode Island": "Fully exempt",
+    "South Carolina": "Up to $30,000 exempt",
+    "Utah": "Up to $24,000 exempt",
+    "Vermont": "Fully exempt",
+    "Virginia": "Up to $40,000 exempt for age 55+",
+    "West Virginia": "Up to $25,000 exempt",
+    "Wisconsin": "Fully exempt"
+  }
+}

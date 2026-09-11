@@ -1,0 +1,2534 @@
+{
+    "year": 2026,
+    "source": "Approximate OHA rates based on early 2025 exchange rates. OHA fluctuates with currency exchange. For official rates, check travel.dod.mil",
+    "disclaimer": "OHA is a cost-reimbursement allowance. You receive actual rent up to the ceiling, plus a flat utility allowance. Rates shown are maximums.",
+    "locations": {
+        "de_kmc": {
+            "name": "Ramstein / KMC",
+            "country": "Germany",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1380,
+                    "util": 885
+                },
+                "E2": {
+                    "rent": 1380,
+                    "util": 885
+                },
+                "E3": {
+                    "rent": 1380,
+                    "util": 885
+                },
+                "E4": {
+                    "rent": 1380,
+                    "util": 885
+                },
+                "E5": {
+                    "rent": 1500,
+                    "util": 885
+                },
+                "E6": {
+                    "rent": 1745,
+                    "util": 885
+                },
+                "E7": {
+                    "rent": 1745,
+                    "util": 885
+                },
+                "E8": {
+                    "rent": 1745,
+                    "util": 885
+                },
+                "E9": {
+                    "rent": 2105,
+                    "util": 885
+                },
+                "W1": {
+                    "rent": 1500,
+                    "util": 885
+                },
+                "W2": {
+                    "rent": 1745,
+                    "util": 885
+                },
+                "W3": {
+                    "rent": 2105,
+                    "util": 885
+                },
+                "W4": {
+                    "rent": 2105,
+                    "util": 885
+                },
+                "W5": {
+                    "rent": 2245,
+                    "util": 885
+                },
+                "O1": {
+                    "rent": 1500,
+                    "util": 885
+                },
+                "O2": {
+                    "rent": 1500,
+                    "util": 885
+                },
+                "O3": {
+                    "rent": 1745,
+                    "util": 885
+                },
+                "O4": {
+                    "rent": 2105,
+                    "util": 885
+                },
+                "O5": {
+                    "rent": 2245,
+                    "util": 885
+                },
+                "O6": {
+                    "rent": 2505,
+                    "util": 885
+                }
+            }
+        },
+        "de_stuttgart": {
+            "name": "Stuttgart / Panzer Kaserne",
+            "country": "Germany",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1450,
+                    "util": 870
+                },
+                "E2": {
+                    "rent": 1450,
+                    "util": 870
+                },
+                "E3": {
+                    "rent": 1450,
+                    "util": 870
+                },
+                "E4": {
+                    "rent": 1450,
+                    "util": 870
+                },
+                "E5": {
+                    "rent": 1580,
+                    "util": 870
+                },
+                "E6": {
+                    "rent": 1830,
+                    "util": 870
+                },
+                "E7": {
+                    "rent": 1830,
+                    "util": 870
+                },
+                "E8": {
+                    "rent": 1830,
+                    "util": 870
+                },
+                "E9": {
+                    "rent": 2200,
+                    "util": 870
+                },
+                "W1": {
+                    "rent": 1580,
+                    "util": 870
+                },
+                "W2": {
+                    "rent": 1830,
+                    "util": 870
+                },
+                "W3": {
+                    "rent": 2200,
+                    "util": 870
+                },
+                "W4": {
+                    "rent": 2200,
+                    "util": 870
+                },
+                "W5": {
+                    "rent": 2350,
+                    "util": 870
+                },
+                "O1": {
+                    "rent": 1580,
+                    "util": 870
+                },
+                "O2": {
+                    "rent": 1580,
+                    "util": 870
+                },
+                "O3": {
+                    "rent": 1830,
+                    "util": 870
+                },
+                "O4": {
+                    "rent": 2200,
+                    "util": 870
+                },
+                "O5": {
+                    "rent": 2350,
+                    "util": 870
+                },
+                "O6": {
+                    "rent": 2600,
+                    "util": 870
+                }
+            }
+        },
+        "de_wiesbaden": {
+            "name": "Wiesbaden / Clay Kaserne",
+            "country": "Germany",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1420,
+                    "util": 860
+                },
+                "E2": {
+                    "rent": 1420,
+                    "util": 860
+                },
+                "E3": {
+                    "rent": 1420,
+                    "util": 860
+                },
+                "E4": {
+                    "rent": 1420,
+                    "util": 860
+                },
+                "E5": {
+                    "rent": 1550,
+                    "util": 860
+                },
+                "E6": {
+                    "rent": 1790,
+                    "util": 860
+                },
+                "E7": {
+                    "rent": 1790,
+                    "util": 860
+                },
+                "E8": {
+                    "rent": 1790,
+                    "util": 860
+                },
+                "E9": {
+                    "rent": 2150,
+                    "util": 860
+                },
+                "W1": {
+                    "rent": 1550,
+                    "util": 860
+                },
+                "W2": {
+                    "rent": 1790,
+                    "util": 860
+                },
+                "W3": {
+                    "rent": 2150,
+                    "util": 860
+                },
+                "W4": {
+                    "rent": 2150,
+                    "util": 860
+                },
+                "W5": {
+                    "rent": 2300,
+                    "util": 860
+                },
+                "O1": {
+                    "rent": 1550,
+                    "util": 860
+                },
+                "O2": {
+                    "rent": 1550,
+                    "util": 860
+                },
+                "O3": {
+                    "rent": 1790,
+                    "util": 860
+                },
+                "O4": {
+                    "rent": 2150,
+                    "util": 860
+                },
+                "O5": {
+                    "rent": 2300,
+                    "util": 860
+                },
+                "O6": {
+                    "rent": 2550,
+                    "util": 860
+                }
+            }
+        },
+        "de_grafenwoehr": {
+            "name": "Grafenwöhr / Vilseck",
+            "country": "Germany",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1200,
+                    "util": 830
+                },
+                "E2": {
+                    "rent": 1200,
+                    "util": 830
+                },
+                "E3": {
+                    "rent": 1200,
+                    "util": 830
+                },
+                "E4": {
+                    "rent": 1200,
+                    "util": 830
+                },
+                "E5": {
+                    "rent": 1320,
+                    "util": 830
+                },
+                "E6": {
+                    "rent": 1530,
+                    "util": 830
+                },
+                "E7": {
+                    "rent": 1530,
+                    "util": 830
+                },
+                "E8": {
+                    "rent": 1530,
+                    "util": 830
+                },
+                "E9": {
+                    "rent": 1850,
+                    "util": 830
+                },
+                "W1": {
+                    "rent": 1320,
+                    "util": 830
+                },
+                "W2": {
+                    "rent": 1530,
+                    "util": 830
+                },
+                "W3": {
+                    "rent": 1850,
+                    "util": 830
+                },
+                "W4": {
+                    "rent": 1850,
+                    "util": 830
+                },
+                "W5": {
+                    "rent": 1980,
+                    "util": 830
+                },
+                "O1": {
+                    "rent": 1320,
+                    "util": 830
+                },
+                "O2": {
+                    "rent": 1320,
+                    "util": 830
+                },
+                "O3": {
+                    "rent": 1530,
+                    "util": 830
+                },
+                "O4": {
+                    "rent": 1850,
+                    "util": 830
+                },
+                "O5": {
+                    "rent": 1980,
+                    "util": 830
+                },
+                "O6": {
+                    "rent": 2200,
+                    "util": 830
+                }
+            }
+        },
+        "de_baumholder": {
+            "name": "Baumholder / Smith Barracks",
+            "country": "Germany",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1150,
+                    "util": 820
+                },
+                "E2": {
+                    "rent": 1150,
+                    "util": 820
+                },
+                "E3": {
+                    "rent": 1150,
+                    "util": 820
+                },
+                "E4": {
+                    "rent": 1150,
+                    "util": 820
+                },
+                "E5": {
+                    "rent": 1280,
+                    "util": 820
+                },
+                "E6": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "E7": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "E8": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "E9": {
+                    "rent": 1780,
+                    "util": 820
+                },
+                "W1": {
+                    "rent": 1280,
+                    "util": 820
+                },
+                "W2": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "W3": {
+                    "rent": 1780,
+                    "util": 820
+                },
+                "W4": {
+                    "rent": 1780,
+                    "util": 820
+                },
+                "W5": {
+                    "rent": 1900,
+                    "util": 820
+                },
+                "O1": {
+                    "rent": 1280,
+                    "util": 820
+                },
+                "O2": {
+                    "rent": 1280,
+                    "util": 820
+                },
+                "O3": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "O4": {
+                    "rent": 1780,
+                    "util": 820
+                },
+                "O5": {
+                    "rent": 1900,
+                    "util": 820
+                },
+                "O6": {
+                    "rent": 2100,
+                    "util": 820
+                }
+            }
+        },
+        "de_ansbach": {
+            "name": "Ansbach / Katterbach",
+            "country": "Germany",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1180,
+                    "util": 830
+                },
+                "E2": {
+                    "rent": 1180,
+                    "util": 830
+                },
+                "E3": {
+                    "rent": 1180,
+                    "util": 830
+                },
+                "E4": {
+                    "rent": 1180,
+                    "util": 830
+                },
+                "E5": {
+                    "rent": 1300,
+                    "util": 830
+                },
+                "E6": {
+                    "rent": 1500,
+                    "util": 830
+                },
+                "E7": {
+                    "rent": 1500,
+                    "util": 830
+                },
+                "E8": {
+                    "rent": 1500,
+                    "util": 830
+                },
+                "E9": {
+                    "rent": 1820,
+                    "util": 830
+                },
+                "W1": {
+                    "rent": 1300,
+                    "util": 830
+                },
+                "W2": {
+                    "rent": 1500,
+                    "util": 830
+                },
+                "W3": {
+                    "rent": 1820,
+                    "util": 830
+                },
+                "W4": {
+                    "rent": 1820,
+                    "util": 830
+                },
+                "W5": {
+                    "rent": 1950,
+                    "util": 830
+                },
+                "O1": {
+                    "rent": 1300,
+                    "util": 830
+                },
+                "O2": {
+                    "rent": 1300,
+                    "util": 830
+                },
+                "O3": {
+                    "rent": 1500,
+                    "util": 830
+                },
+                "O4": {
+                    "rent": 1820,
+                    "util": 830
+                },
+                "O5": {
+                    "rent": 1950,
+                    "util": 830
+                },
+                "O6": {
+                    "rent": 2160,
+                    "util": 830
+                }
+            }
+        },
+        "de_spangdahlem": {
+            "name": "Spangdahlem Air Base",
+            "country": "Germany",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1150,
+                    "util": 820
+                },
+                "E2": {
+                    "rent": 1150,
+                    "util": 820
+                },
+                "E3": {
+                    "rent": 1150,
+                    "util": 820
+                },
+                "E4": {
+                    "rent": 1150,
+                    "util": 820
+                },
+                "E5": {
+                    "rent": 1280,
+                    "util": 820
+                },
+                "E6": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "E7": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "E8": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "E9": {
+                    "rent": 1780,
+                    "util": 820
+                },
+                "W1": {
+                    "rent": 1280,
+                    "util": 820
+                },
+                "W2": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "W3": {
+                    "rent": 1780,
+                    "util": 820
+                },
+                "W4": {
+                    "rent": 1780,
+                    "util": 820
+                },
+                "W5": {
+                    "rent": 1900,
+                    "util": 820
+                },
+                "O1": {
+                    "rent": 1280,
+                    "util": 820
+                },
+                "O2": {
+                    "rent": 1280,
+                    "util": 820
+                },
+                "O3": {
+                    "rent": 1480,
+                    "util": 820
+                },
+                "O4": {
+                    "rent": 1780,
+                    "util": 820
+                },
+                "O5": {
+                    "rent": 1900,
+                    "util": 820
+                },
+                "O6": {
+                    "rent": 2100,
+                    "util": 820
+                }
+            }
+        },
+        "jp_yokosuka": {
+            "name": "Yokosuka Naval Base",
+            "country": "Japan",
+            "currency": "JPY",
+            "rates": {
+                "E1": {
+                    "rent": 1850,
+                    "util": 680
+                },
+                "E2": {
+                    "rent": 1850,
+                    "util": 680
+                },
+                "E3": {
+                    "rent": 1850,
+                    "util": 680
+                },
+                "E4": {
+                    "rent": 1850,
+                    "util": 680
+                },
+                "E5": {
+                    "rent": 2050,
+                    "util": 680
+                },
+                "E6": {
+                    "rent": 2350,
+                    "util": 680
+                },
+                "E7": {
+                    "rent": 2350,
+                    "util": 680
+                },
+                "E8": {
+                    "rent": 2350,
+                    "util": 680
+                },
+                "E9": {
+                    "rent": 2800,
+                    "util": 680
+                },
+                "W1": {
+                    "rent": 2050,
+                    "util": 680
+                },
+                "W2": {
+                    "rent": 2350,
+                    "util": 680
+                },
+                "W3": {
+                    "rent": 2800,
+                    "util": 680
+                },
+                "W4": {
+                    "rent": 2800,
+                    "util": 680
+                },
+                "W5": {
+                    "rent": 3000,
+                    "util": 680
+                },
+                "O1": {
+                    "rent": 2050,
+                    "util": 680
+                },
+                "O2": {
+                    "rent": 2050,
+                    "util": 680
+                },
+                "O3": {
+                    "rent": 2350,
+                    "util": 680
+                },
+                "O4": {
+                    "rent": 2800,
+                    "util": 680
+                },
+                "O5": {
+                    "rent": 3000,
+                    "util": 680
+                },
+                "O6": {
+                    "rent": 3350,
+                    "util": 680
+                }
+            }
+        },
+        "jp_yokota": {
+            "name": "Yokota Air Base",
+            "country": "Japan",
+            "currency": "JPY",
+            "rates": {
+                "E1": {
+                    "rent": 1750,
+                    "util": 650
+                },
+                "E2": {
+                    "rent": 1750,
+                    "util": 650
+                },
+                "E3": {
+                    "rent": 1750,
+                    "util": 650
+                },
+                "E4": {
+                    "rent": 1750,
+                    "util": 650
+                },
+                "E5": {
+                    "rent": 1950,
+                    "util": 650
+                },
+                "E6": {
+                    "rent": 2250,
+                    "util": 650
+                },
+                "E7": {
+                    "rent": 2250,
+                    "util": 650
+                },
+                "E8": {
+                    "rent": 2250,
+                    "util": 650
+                },
+                "E9": {
+                    "rent": 2700,
+                    "util": 650
+                },
+                "W1": {
+                    "rent": 1950,
+                    "util": 650
+                },
+                "W2": {
+                    "rent": 2250,
+                    "util": 650
+                },
+                "W3": {
+                    "rent": 2700,
+                    "util": 650
+                },
+                "W4": {
+                    "rent": 2700,
+                    "util": 650
+                },
+                "W5": {
+                    "rent": 2900,
+                    "util": 650
+                },
+                "O1": {
+                    "rent": 1950,
+                    "util": 650
+                },
+                "O2": {
+                    "rent": 1950,
+                    "util": 650
+                },
+                "O3": {
+                    "rent": 2250,
+                    "util": 650
+                },
+                "O4": {
+                    "rent": 2700,
+                    "util": 650
+                },
+                "O5": {
+                    "rent": 2900,
+                    "util": 650
+                },
+                "O6": {
+                    "rent": 3200,
+                    "util": 650
+                }
+            }
+        },
+        "jp_camp_zama": {
+            "name": "Camp Zama",
+            "country": "Japan",
+            "currency": "JPY",
+            "rates": {
+                "E1": {
+                    "rent": 1800,
+                    "util": 660
+                },
+                "E2": {
+                    "rent": 1800,
+                    "util": 660
+                },
+                "E3": {
+                    "rent": 1800,
+                    "util": 660
+                },
+                "E4": {
+                    "rent": 1800,
+                    "util": 660
+                },
+                "E5": {
+                    "rent": 2000,
+                    "util": 660
+                },
+                "E6": {
+                    "rent": 2300,
+                    "util": 660
+                },
+                "E7": {
+                    "rent": 2300,
+                    "util": 660
+                },
+                "E8": {
+                    "rent": 2300,
+                    "util": 660
+                },
+                "E9": {
+                    "rent": 2750,
+                    "util": 660
+                },
+                "W1": {
+                    "rent": 2000,
+                    "util": 660
+                },
+                "W2": {
+                    "rent": 2300,
+                    "util": 660
+                },
+                "W3": {
+                    "rent": 2750,
+                    "util": 660
+                },
+                "W4": {
+                    "rent": 2750,
+                    "util": 660
+                },
+                "W5": {
+                    "rent": 2950,
+                    "util": 660
+                },
+                "O1": {
+                    "rent": 2000,
+                    "util": 660
+                },
+                "O2": {
+                    "rent": 2000,
+                    "util": 660
+                },
+                "O3": {
+                    "rent": 2300,
+                    "util": 660
+                },
+                "O4": {
+                    "rent": 2750,
+                    "util": 660
+                },
+                "O5": {
+                    "rent": 2950,
+                    "util": 660
+                },
+                "O6": {
+                    "rent": 3280,
+                    "util": 660
+                }
+            }
+        },
+        "jp_misawa": {
+            "name": "Misawa Air Base",
+            "country": "Japan",
+            "currency": "JPY",
+            "rates": {
+                "E1": {
+                    "rent": 1350,
+                    "util": 620
+                },
+                "E2": {
+                    "rent": 1350,
+                    "util": 620
+                },
+                "E3": {
+                    "rent": 1350,
+                    "util": 620
+                },
+                "E4": {
+                    "rent": 1350,
+                    "util": 620
+                },
+                "E5": {
+                    "rent": 1500,
+                    "util": 620
+                },
+                "E6": {
+                    "rent": 1750,
+                    "util": 620
+                },
+                "E7": {
+                    "rent": 1750,
+                    "util": 620
+                },
+                "E8": {
+                    "rent": 1750,
+                    "util": 620
+                },
+                "E9": {
+                    "rent": 2100,
+                    "util": 620
+                },
+                "W1": {
+                    "rent": 1500,
+                    "util": 620
+                },
+                "W2": {
+                    "rent": 1750,
+                    "util": 620
+                },
+                "W3": {
+                    "rent": 2100,
+                    "util": 620
+                },
+                "W4": {
+                    "rent": 2100,
+                    "util": 620
+                },
+                "W5": {
+                    "rent": 2250,
+                    "util": 620
+                },
+                "O1": {
+                    "rent": 1500,
+                    "util": 620
+                },
+                "O2": {
+                    "rent": 1500,
+                    "util": 620
+                },
+                "O3": {
+                    "rent": 1750,
+                    "util": 620
+                },
+                "O4": {
+                    "rent": 2100,
+                    "util": 620
+                },
+                "O5": {
+                    "rent": 2250,
+                    "util": 620
+                },
+                "O6": {
+                    "rent": 2500,
+                    "util": 620
+                }
+            }
+        },
+        "jp_iwakuni": {
+            "name": "MCAS Iwakuni",
+            "country": "Japan",
+            "currency": "JPY",
+            "rates": {
+                "E1": {
+                    "rent": 1400,
+                    "util": 620
+                },
+                "E2": {
+                    "rent": 1400,
+                    "util": 620
+                },
+                "E3": {
+                    "rent": 1400,
+                    "util": 620
+                },
+                "E4": {
+                    "rent": 1400,
+                    "util": 620
+                },
+                "E5": {
+                    "rent": 1550,
+                    "util": 620
+                },
+                "E6": {
+                    "rent": 1800,
+                    "util": 620
+                },
+                "E7": {
+                    "rent": 1800,
+                    "util": 620
+                },
+                "E8": {
+                    "rent": 1800,
+                    "util": 620
+                },
+                "E9": {
+                    "rent": 2150,
+                    "util": 620
+                },
+                "W1": {
+                    "rent": 1550,
+                    "util": 620
+                },
+                "W2": {
+                    "rent": 1800,
+                    "util": 620
+                },
+                "W3": {
+                    "rent": 2150,
+                    "util": 620
+                },
+                "W4": {
+                    "rent": 2150,
+                    "util": 620
+                },
+                "W5": {
+                    "rent": 2300,
+                    "util": 620
+                },
+                "O1": {
+                    "rent": 1550,
+                    "util": 620
+                },
+                "O2": {
+                    "rent": 1550,
+                    "util": 620
+                },
+                "O3": {
+                    "rent": 1800,
+                    "util": 620
+                },
+                "O4": {
+                    "rent": 2150,
+                    "util": 620
+                },
+                "O5": {
+                    "rent": 2300,
+                    "util": 620
+                },
+                "O6": {
+                    "rent": 2550,
+                    "util": 620
+                }
+            }
+        },
+        "jp_okinawa": {
+            "name": "Okinawa (Kadena / Foster / Hansen)",
+            "country": "Japan",
+            "currency": "JPY",
+            "rates": {
+                "E1": {
+                    "rent": 1400,
+                    "util": 580
+                },
+                "E2": {
+                    "rent": 1400,
+                    "util": 580
+                },
+                "E3": {
+                    "rent": 1400,
+                    "util": 580
+                },
+                "E4": {
+                    "rent": 1400,
+                    "util": 580
+                },
+                "E5": {
+                    "rent": 1550,
+                    "util": 580
+                },
+                "E6": {
+                    "rent": 1800,
+                    "util": 580
+                },
+                "E7": {
+                    "rent": 1800,
+                    "util": 580
+                },
+                "E8": {
+                    "rent": 1800,
+                    "util": 580
+                },
+                "E9": {
+                    "rent": 2150,
+                    "util": 580
+                },
+                "W1": {
+                    "rent": 1550,
+                    "util": 580
+                },
+                "W2": {
+                    "rent": 1800,
+                    "util": 580
+                },
+                "W3": {
+                    "rent": 2150,
+                    "util": 580
+                },
+                "W4": {
+                    "rent": 2150,
+                    "util": 580
+                },
+                "W5": {
+                    "rent": 2300,
+                    "util": 580
+                },
+                "O1": {
+                    "rent": 1550,
+                    "util": 580
+                },
+                "O2": {
+                    "rent": 1550,
+                    "util": 580
+                },
+                "O3": {
+                    "rent": 1800,
+                    "util": 580
+                },
+                "O4": {
+                    "rent": 2150,
+                    "util": 580
+                },
+                "O5": {
+                    "rent": 2300,
+                    "util": 580
+                },
+                "O6": {
+                    "rent": 2550,
+                    "util": 580
+                }
+            }
+        },
+        "jp_sasebo": {
+            "name": "Sasebo Naval Base",
+            "country": "Japan",
+            "currency": "JPY",
+            "rates": {
+                "E1": {
+                    "rent": 1300,
+                    "util": 600
+                },
+                "E2": {
+                    "rent": 1300,
+                    "util": 600
+                },
+                "E3": {
+                    "rent": 1300,
+                    "util": 600
+                },
+                "E4": {
+                    "rent": 1300,
+                    "util": 600
+                },
+                "E5": {
+                    "rent": 1450,
+                    "util": 600
+                },
+                "E6": {
+                    "rent": 1680,
+                    "util": 600
+                },
+                "E7": {
+                    "rent": 1680,
+                    "util": 600
+                },
+                "E8": {
+                    "rent": 1680,
+                    "util": 600
+                },
+                "E9": {
+                    "rent": 2020,
+                    "util": 600
+                },
+                "W1": {
+                    "rent": 1450,
+                    "util": 600
+                },
+                "W2": {
+                    "rent": 1680,
+                    "util": 600
+                },
+                "W3": {
+                    "rent": 2020,
+                    "util": 600
+                },
+                "W4": {
+                    "rent": 2020,
+                    "util": 600
+                },
+                "W5": {
+                    "rent": 2160,
+                    "util": 600
+                },
+                "O1": {
+                    "rent": 1450,
+                    "util": 600
+                },
+                "O2": {
+                    "rent": 1450,
+                    "util": 600
+                },
+                "O3": {
+                    "rent": 1680,
+                    "util": 600
+                },
+                "O4": {
+                    "rent": 2020,
+                    "util": 600
+                },
+                "O5": {
+                    "rent": 2160,
+                    "util": 600
+                },
+                "O6": {
+                    "rent": 2400,
+                    "util": 600
+                }
+            }
+        },
+        "kr_humphreys": {
+            "name": "Camp Humphreys (Pyeongtaek)",
+            "country": "South Korea",
+            "currency": "KRW",
+            "rates": {
+                "E1": {
+                    "rent": 1350,
+                    "util": 550
+                },
+                "E2": {
+                    "rent": 1350,
+                    "util": 550
+                },
+                "E3": {
+                    "rent": 1350,
+                    "util": 550
+                },
+                "E4": {
+                    "rent": 1350,
+                    "util": 550
+                },
+                "E5": {
+                    "rent": 1500,
+                    "util": 550
+                },
+                "E6": {
+                    "rent": 1700,
+                    "util": 550
+                },
+                "E7": {
+                    "rent": 1700,
+                    "util": 550
+                },
+                "E8": {
+                    "rent": 1700,
+                    "util": 550
+                },
+                "E9": {
+                    "rent": 2050,
+                    "util": 550
+                },
+                "W1": {
+                    "rent": 1500,
+                    "util": 550
+                },
+                "W2": {
+                    "rent": 1700,
+                    "util": 550
+                },
+                "W3": {
+                    "rent": 2050,
+                    "util": 550
+                },
+                "W4": {
+                    "rent": 2050,
+                    "util": 550
+                },
+                "W5": {
+                    "rent": 2200,
+                    "util": 550
+                },
+                "O1": {
+                    "rent": 1500,
+                    "util": 550
+                },
+                "O2": {
+                    "rent": 1500,
+                    "util": 550
+                },
+                "O3": {
+                    "rent": 1700,
+                    "util": 550
+                },
+                "O4": {
+                    "rent": 2050,
+                    "util": 550
+                },
+                "O5": {
+                    "rent": 2200,
+                    "util": 550
+                },
+                "O6": {
+                    "rent": 2450,
+                    "util": 550
+                }
+            }
+        },
+        "kr_osan": {
+            "name": "Osan Air Base",
+            "country": "South Korea",
+            "currency": "KRW",
+            "rates": {
+                "E1": {
+                    "rent": 1250,
+                    "util": 520
+                },
+                "E2": {
+                    "rent": 1250,
+                    "util": 520
+                },
+                "E3": {
+                    "rent": 1250,
+                    "util": 520
+                },
+                "E4": {
+                    "rent": 1250,
+                    "util": 520
+                },
+                "E5": {
+                    "rent": 1400,
+                    "util": 520
+                },
+                "E6": {
+                    "rent": 1600,
+                    "util": 520
+                },
+                "E7": {
+                    "rent": 1600,
+                    "util": 520
+                },
+                "E8": {
+                    "rent": 1600,
+                    "util": 520
+                },
+                "E9": {
+                    "rent": 1920,
+                    "util": 520
+                },
+                "W1": {
+                    "rent": 1400,
+                    "util": 520
+                },
+                "W2": {
+                    "rent": 1600,
+                    "util": 520
+                },
+                "W3": {
+                    "rent": 1920,
+                    "util": 520
+                },
+                "W4": {
+                    "rent": 1920,
+                    "util": 520
+                },
+                "W5": {
+                    "rent": 2060,
+                    "util": 520
+                },
+                "O1": {
+                    "rent": 1400,
+                    "util": 520
+                },
+                "O2": {
+                    "rent": 1400,
+                    "util": 520
+                },
+                "O3": {
+                    "rent": 1600,
+                    "util": 520
+                },
+                "O4": {
+                    "rent": 1920,
+                    "util": 520
+                },
+                "O5": {
+                    "rent": 2060,
+                    "util": 520
+                },
+                "O6": {
+                    "rent": 2300,
+                    "util": 520
+                }
+            }
+        },
+        "kr_kunsan": {
+            "name": "Kunsan Air Base",
+            "country": "South Korea",
+            "currency": "KRW",
+            "rates": {
+                "E1": {
+                    "rent": 1100,
+                    "util": 480
+                },
+                "E2": {
+                    "rent": 1100,
+                    "util": 480
+                },
+                "E3": {
+                    "rent": 1100,
+                    "util": 480
+                },
+                "E4": {
+                    "rent": 1100,
+                    "util": 480
+                },
+                "E5": {
+                    "rent": 1220,
+                    "util": 480
+                },
+                "E6": {
+                    "rent": 1400,
+                    "util": 480
+                },
+                "E7": {
+                    "rent": 1400,
+                    "util": 480
+                },
+                "E8": {
+                    "rent": 1400,
+                    "util": 480
+                },
+                "E9": {
+                    "rent": 1680,
+                    "util": 480
+                },
+                "W1": {
+                    "rent": 1220,
+                    "util": 480
+                },
+                "W2": {
+                    "rent": 1400,
+                    "util": 480
+                },
+                "W3": {
+                    "rent": 1680,
+                    "util": 480
+                },
+                "W4": {
+                    "rent": 1680,
+                    "util": 480
+                },
+                "W5": {
+                    "rent": 1800,
+                    "util": 480
+                },
+                "O1": {
+                    "rent": 1220,
+                    "util": 480
+                },
+                "O2": {
+                    "rent": 1220,
+                    "util": 480
+                },
+                "O3": {
+                    "rent": 1400,
+                    "util": 480
+                },
+                "O4": {
+                    "rent": 1680,
+                    "util": 480
+                },
+                "O5": {
+                    "rent": 1800,
+                    "util": 480
+                },
+                "O6": {
+                    "rent": 2000,
+                    "util": 480
+                }
+            }
+        },
+        "kr_daegu": {
+            "name": "Camp Walker / Daegu",
+            "country": "South Korea",
+            "currency": "KRW",
+            "rates": {
+                "E1": {
+                    "rent": 1200,
+                    "util": 500
+                },
+                "E2": {
+                    "rent": 1200,
+                    "util": 500
+                },
+                "E3": {
+                    "rent": 1200,
+                    "util": 500
+                },
+                "E4": {
+                    "rent": 1200,
+                    "util": 500
+                },
+                "E5": {
+                    "rent": 1330,
+                    "util": 500
+                },
+                "E6": {
+                    "rent": 1530,
+                    "util": 500
+                },
+                "E7": {
+                    "rent": 1530,
+                    "util": 500
+                },
+                "E8": {
+                    "rent": 1530,
+                    "util": 500
+                },
+                "E9": {
+                    "rent": 1840,
+                    "util": 500
+                },
+                "W1": {
+                    "rent": 1330,
+                    "util": 500
+                },
+                "W2": {
+                    "rent": 1530,
+                    "util": 500
+                },
+                "W3": {
+                    "rent": 1840,
+                    "util": 500
+                },
+                "W4": {
+                    "rent": 1840,
+                    "util": 500
+                },
+                "W5": {
+                    "rent": 1970,
+                    "util": 500
+                },
+                "O1": {
+                    "rent": 1330,
+                    "util": 500
+                },
+                "O2": {
+                    "rent": 1330,
+                    "util": 500
+                },
+                "O3": {
+                    "rent": 1530,
+                    "util": 500
+                },
+                "O4": {
+                    "rent": 1840,
+                    "util": 500
+                },
+                "O5": {
+                    "rent": 1970,
+                    "util": 500
+                },
+                "O6": {
+                    "rent": 2200,
+                    "util": 500
+                }
+            }
+        },
+        "kr_seoul": {
+            "name": "Seoul / Yongsan",
+            "country": "South Korea",
+            "currency": "KRW",
+            "rates": {
+                "E1": {
+                    "rent": 1500,
+                    "util": 560
+                },
+                "E2": {
+                    "rent": 1500,
+                    "util": 560
+                },
+                "E3": {
+                    "rent": 1500,
+                    "util": 560
+                },
+                "E4": {
+                    "rent": 1500,
+                    "util": 560
+                },
+                "E5": {
+                    "rent": 1650,
+                    "util": 560
+                },
+                "E6": {
+                    "rent": 1900,
+                    "util": 560
+                },
+                "E7": {
+                    "rent": 1900,
+                    "util": 560
+                },
+                "E8": {
+                    "rent": 1900,
+                    "util": 560
+                },
+                "E9": {
+                    "rent": 2280,
+                    "util": 560
+                },
+                "W1": {
+                    "rent": 1650,
+                    "util": 560
+                },
+                "W2": {
+                    "rent": 1900,
+                    "util": 560
+                },
+                "W3": {
+                    "rent": 2280,
+                    "util": 560
+                },
+                "W4": {
+                    "rent": 2280,
+                    "util": 560
+                },
+                "W5": {
+                    "rent": 2440,
+                    "util": 560
+                },
+                "O1": {
+                    "rent": 1650,
+                    "util": 560
+                },
+                "O2": {
+                    "rent": 1650,
+                    "util": 560
+                },
+                "O3": {
+                    "rent": 1900,
+                    "util": 560
+                },
+                "O4": {
+                    "rent": 2280,
+                    "util": 560
+                },
+                "O5": {
+                    "rent": 2440,
+                    "util": 560
+                },
+                "O6": {
+                    "rent": 2720,
+                    "util": 560
+                }
+            }
+        },
+        "it_vicenza": {
+            "name": "Vicenza / Caserma Ederle",
+            "country": "Italy",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1350,
+                    "util": 780
+                },
+                "E2": {
+                    "rent": 1350,
+                    "util": 780
+                },
+                "E3": {
+                    "rent": 1350,
+                    "util": 780
+                },
+                "E4": {
+                    "rent": 1350,
+                    "util": 780
+                },
+                "E5": {
+                    "rent": 1480,
+                    "util": 780
+                },
+                "E6": {
+                    "rent": 1700,
+                    "util": 780
+                },
+                "E7": {
+                    "rent": 1700,
+                    "util": 780
+                },
+                "E8": {
+                    "rent": 1700,
+                    "util": 780
+                },
+                "E9": {
+                    "rent": 2050,
+                    "util": 780
+                },
+                "W1": {
+                    "rent": 1480,
+                    "util": 780
+                },
+                "W2": {
+                    "rent": 1700,
+                    "util": 780
+                },
+                "W3": {
+                    "rent": 2050,
+                    "util": 780
+                },
+                "W4": {
+                    "rent": 2050,
+                    "util": 780
+                },
+                "W5": {
+                    "rent": 2200,
+                    "util": 780
+                },
+                "O1": {
+                    "rent": 1480,
+                    "util": 780
+                },
+                "O2": {
+                    "rent": 1480,
+                    "util": 780
+                },
+                "O3": {
+                    "rent": 1700,
+                    "util": 780
+                },
+                "O4": {
+                    "rent": 2050,
+                    "util": 780
+                },
+                "O5": {
+                    "rent": 2200,
+                    "util": 780
+                },
+                "O6": {
+                    "rent": 2450,
+                    "util": 780
+                }
+            }
+        },
+        "it_aviano": {
+            "name": "Aviano Air Base",
+            "country": "Italy",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1280,
+                    "util": 760
+                },
+                "E2": {
+                    "rent": 1280,
+                    "util": 760
+                },
+                "E3": {
+                    "rent": 1280,
+                    "util": 760
+                },
+                "E4": {
+                    "rent": 1280,
+                    "util": 760
+                },
+                "E5": {
+                    "rent": 1400,
+                    "util": 760
+                },
+                "E6": {
+                    "rent": 1620,
+                    "util": 760
+                },
+                "E7": {
+                    "rent": 1620,
+                    "util": 760
+                },
+                "E8": {
+                    "rent": 1620,
+                    "util": 760
+                },
+                "E9": {
+                    "rent": 1950,
+                    "util": 760
+                },
+                "W1": {
+                    "rent": 1400,
+                    "util": 760
+                },
+                "W2": {
+                    "rent": 1620,
+                    "util": 760
+                },
+                "W3": {
+                    "rent": 1950,
+                    "util": 760
+                },
+                "W4": {
+                    "rent": 1950,
+                    "util": 760
+                },
+                "W5": {
+                    "rent": 2100,
+                    "util": 760
+                },
+                "O1": {
+                    "rent": 1400,
+                    "util": 760
+                },
+                "O2": {
+                    "rent": 1400,
+                    "util": 760
+                },
+                "O3": {
+                    "rent": 1620,
+                    "util": 760
+                },
+                "O4": {
+                    "rent": 1950,
+                    "util": 760
+                },
+                "O5": {
+                    "rent": 2100,
+                    "util": 760
+                },
+                "O6": {
+                    "rent": 2350,
+                    "util": 760
+                }
+            }
+        },
+        "it_naples": {
+            "name": "Naples / NSA Naples",
+            "country": "Italy",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1500,
+                    "util": 800
+                },
+                "E2": {
+                    "rent": 1500,
+                    "util": 800
+                },
+                "E3": {
+                    "rent": 1500,
+                    "util": 800
+                },
+                "E4": {
+                    "rent": 1500,
+                    "util": 800
+                },
+                "E5": {
+                    "rent": 1650,
+                    "util": 800
+                },
+                "E6": {
+                    "rent": 1900,
+                    "util": 800
+                },
+                "E7": {
+                    "rent": 1900,
+                    "util": 800
+                },
+                "E8": {
+                    "rent": 1900,
+                    "util": 800
+                },
+                "E9": {
+                    "rent": 2280,
+                    "util": 800
+                },
+                "W1": {
+                    "rent": 1650,
+                    "util": 800
+                },
+                "W2": {
+                    "rent": 1900,
+                    "util": 800
+                },
+                "W3": {
+                    "rent": 2280,
+                    "util": 800
+                },
+                "W4": {
+                    "rent": 2280,
+                    "util": 800
+                },
+                "W5": {
+                    "rent": 2440,
+                    "util": 800
+                },
+                "O1": {
+                    "rent": 1650,
+                    "util": 800
+                },
+                "O2": {
+                    "rent": 1650,
+                    "util": 800
+                },
+                "O3": {
+                    "rent": 1900,
+                    "util": 800
+                },
+                "O4": {
+                    "rent": 2280,
+                    "util": 800
+                },
+                "O5": {
+                    "rent": 2440,
+                    "util": 800
+                },
+                "O6": {
+                    "rent": 2720,
+                    "util": 800
+                }
+            }
+        },
+        "it_sigonella": {
+            "name": "NAS Sigonella (Sicily)",
+            "country": "Italy",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1200,
+                    "util": 720
+                },
+                "E2": {
+                    "rent": 1200,
+                    "util": 720
+                },
+                "E3": {
+                    "rent": 1200,
+                    "util": 720
+                },
+                "E4": {
+                    "rent": 1200,
+                    "util": 720
+                },
+                "E5": {
+                    "rent": 1320,
+                    "util": 720
+                },
+                "E6": {
+                    "rent": 1530,
+                    "util": 720
+                },
+                "E7": {
+                    "rent": 1530,
+                    "util": 720
+                },
+                "E8": {
+                    "rent": 1530,
+                    "util": 720
+                },
+                "E9": {
+                    "rent": 1840,
+                    "util": 720
+                },
+                "W1": {
+                    "rent": 1320,
+                    "util": 720
+                },
+                "W2": {
+                    "rent": 1530,
+                    "util": 720
+                },
+                "W3": {
+                    "rent": 1840,
+                    "util": 720
+                },
+                "W4": {
+                    "rent": 1840,
+                    "util": 720
+                },
+                "W5": {
+                    "rent": 1970,
+                    "util": 720
+                },
+                "O1": {
+                    "rent": 1320,
+                    "util": 720
+                },
+                "O2": {
+                    "rent": 1320,
+                    "util": 720
+                },
+                "O3": {
+                    "rent": 1530,
+                    "util": 720
+                },
+                "O4": {
+                    "rent": 1840,
+                    "util": 720
+                },
+                "O5": {
+                    "rent": 1970,
+                    "util": 720
+                },
+                "O6": {
+                    "rent": 2200,
+                    "util": 720
+                }
+            }
+        },
+        "uk_lakenheath": {
+            "name": "RAF Lakenheath",
+            "country": "United Kingdom",
+            "currency": "GBP",
+            "rates": {
+                "E1": {
+                    "rent": 1550,
+                    "util": 750
+                },
+                "E2": {
+                    "rent": 1550,
+                    "util": 750
+                },
+                "E3": {
+                    "rent": 1550,
+                    "util": 750
+                },
+                "E4": {
+                    "rent": 1550,
+                    "util": 750
+                },
+                "E5": {
+                    "rent": 1700,
+                    "util": 750
+                },
+                "E6": {
+                    "rent": 1950,
+                    "util": 750
+                },
+                "E7": {
+                    "rent": 1950,
+                    "util": 750
+                },
+                "E8": {
+                    "rent": 1950,
+                    "util": 750
+                },
+                "E9": {
+                    "rent": 2350,
+                    "util": 750
+                },
+                "W1": {
+                    "rent": 1700,
+                    "util": 750
+                },
+                "W2": {
+                    "rent": 1950,
+                    "util": 750
+                },
+                "W3": {
+                    "rent": 2350,
+                    "util": 750
+                },
+                "W4": {
+                    "rent": 2350,
+                    "util": 750
+                },
+                "W5": {
+                    "rent": 2520,
+                    "util": 750
+                },
+                "O1": {
+                    "rent": 1700,
+                    "util": 750
+                },
+                "O2": {
+                    "rent": 1700,
+                    "util": 750
+                },
+                "O3": {
+                    "rent": 1950,
+                    "util": 750
+                },
+                "O4": {
+                    "rent": 2350,
+                    "util": 750
+                },
+                "O5": {
+                    "rent": 2520,
+                    "util": 750
+                },
+                "O6": {
+                    "rent": 2800,
+                    "util": 750
+                }
+            }
+        },
+        "uk_mildenhall": {
+            "name": "RAF Mildenhall",
+            "country": "United Kingdom",
+            "currency": "GBP",
+            "rates": {
+                "E1": {
+                    "rent": 1500,
+                    "util": 740
+                },
+                "E2": {
+                    "rent": 1500,
+                    "util": 740
+                },
+                "E3": {
+                    "rent": 1500,
+                    "util": 740
+                },
+                "E4": {
+                    "rent": 1500,
+                    "util": 740
+                },
+                "E5": {
+                    "rent": 1650,
+                    "util": 740
+                },
+                "E6": {
+                    "rent": 1900,
+                    "util": 740
+                },
+                "E7": {
+                    "rent": 1900,
+                    "util": 740
+                },
+                "E8": {
+                    "rent": 1900,
+                    "util": 740
+                },
+                "E9": {
+                    "rent": 2280,
+                    "util": 740
+                },
+                "W1": {
+                    "rent": 1650,
+                    "util": 740
+                },
+                "W2": {
+                    "rent": 1900,
+                    "util": 740
+                },
+                "W3": {
+                    "rent": 2280,
+                    "util": 740
+                },
+                "W4": {
+                    "rent": 2280,
+                    "util": 740
+                },
+                "W5": {
+                    "rent": 2440,
+                    "util": 740
+                },
+                "O1": {
+                    "rent": 1650,
+                    "util": 740
+                },
+                "O2": {
+                    "rent": 1650,
+                    "util": 740
+                },
+                "O3": {
+                    "rent": 1900,
+                    "util": 740
+                },
+                "O4": {
+                    "rent": 2280,
+                    "util": 740
+                },
+                "O5": {
+                    "rent": 2440,
+                    "util": 740
+                },
+                "O6": {
+                    "rent": 2720,
+                    "util": 740
+                }
+            }
+        },
+        "uk_croughton": {
+            "name": "RAF Croughton",
+            "country": "United Kingdom",
+            "currency": "GBP",
+            "rates": {
+                "E1": {
+                    "rent": 1600,
+                    "util": 760
+                },
+                "E2": {
+                    "rent": 1600,
+                    "util": 760
+                },
+                "E3": {
+                    "rent": 1600,
+                    "util": 760
+                },
+                "E4": {
+                    "rent": 1600,
+                    "util": 760
+                },
+                "E5": {
+                    "rent": 1750,
+                    "util": 760
+                },
+                "E6": {
+                    "rent": 2020,
+                    "util": 760
+                },
+                "E7": {
+                    "rent": 2020,
+                    "util": 760
+                },
+                "E8": {
+                    "rent": 2020,
+                    "util": 760
+                },
+                "E9": {
+                    "rent": 2430,
+                    "util": 760
+                },
+                "W1": {
+                    "rent": 1750,
+                    "util": 760
+                },
+                "W2": {
+                    "rent": 2020,
+                    "util": 760
+                },
+                "W3": {
+                    "rent": 2430,
+                    "util": 760
+                },
+                "W4": {
+                    "rent": 2430,
+                    "util": 760
+                },
+                "W5": {
+                    "rent": 2600,
+                    "util": 760
+                },
+                "O1": {
+                    "rent": 1750,
+                    "util": 760
+                },
+                "O2": {
+                    "rent": 1750,
+                    "util": 760
+                },
+                "O3": {
+                    "rent": 2020,
+                    "util": 760
+                },
+                "O4": {
+                    "rent": 2430,
+                    "util": 760
+                },
+                "O5": {
+                    "rent": 2600,
+                    "util": 760
+                },
+                "O6": {
+                    "rent": 2900,
+                    "util": 760
+                }
+            }
+        },
+        "uk_molesworth": {
+            "name": "RAF Molesworth / Alconbury",
+            "country": "United Kingdom",
+            "currency": "GBP",
+            "rates": {
+                "E1": {
+                    "rent": 1480,
+                    "util": 740
+                },
+                "E2": {
+                    "rent": 1480,
+                    "util": 740
+                },
+                "E3": {
+                    "rent": 1480,
+                    "util": 740
+                },
+                "E4": {
+                    "rent": 1480,
+                    "util": 740
+                },
+                "E5": {
+                    "rent": 1630,
+                    "util": 740
+                },
+                "E6": {
+                    "rent": 1880,
+                    "util": 740
+                },
+                "E7": {
+                    "rent": 1880,
+                    "util": 740
+                },
+                "E8": {
+                    "rent": 1880,
+                    "util": 740
+                },
+                "E9": {
+                    "rent": 2260,
+                    "util": 740
+                },
+                "W1": {
+                    "rent": 1630,
+                    "util": 740
+                },
+                "W2": {
+                    "rent": 1880,
+                    "util": 740
+                },
+                "W3": {
+                    "rent": 2260,
+                    "util": 740
+                },
+                "W4": {
+                    "rent": 2260,
+                    "util": 740
+                },
+                "W5": {
+                    "rent": 2420,
+                    "util": 740
+                },
+                "O1": {
+                    "rent": 1630,
+                    "util": 740
+                },
+                "O2": {
+                    "rent": 1630,
+                    "util": 740
+                },
+                "O3": {
+                    "rent": 1880,
+                    "util": 740
+                },
+                "O4": {
+                    "rent": 2260,
+                    "util": 740
+                },
+                "O5": {
+                    "rent": 2420,
+                    "util": 740
+                },
+                "O6": {
+                    "rent": 2700,
+                    "util": 740
+                }
+            }
+        },
+        "es_rota": {
+            "name": "Naval Station Rota",
+            "country": "Spain",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1200,
+                    "util": 580
+                },
+                "E2": {
+                    "rent": 1200,
+                    "util": 580
+                },
+                "E3": {
+                    "rent": 1200,
+                    "util": 580
+                },
+                "E4": {
+                    "rent": 1200,
+                    "util": 580
+                },
+                "E5": {
+                    "rent": 1320,
+                    "util": 580
+                },
+                "E6": {
+                    "rent": 1530,
+                    "util": 580
+                },
+                "E7": {
+                    "rent": 1530,
+                    "util": 580
+                },
+                "E8": {
+                    "rent": 1530,
+                    "util": 580
+                },
+                "E9": {
+                    "rent": 1840,
+                    "util": 580
+                },
+                "W1": {
+                    "rent": 1320,
+                    "util": 580
+                },
+                "W2": {
+                    "rent": 1530,
+                    "util": 580
+                },
+                "W3": {
+                    "rent": 1840,
+                    "util": 580
+                },
+                "W4": {
+                    "rent": 1840,
+                    "util": 580
+                },
+                "W5": {
+                    "rent": 1970,
+                    "util": 580
+                },
+                "O1": {
+                    "rent": 1320,
+                    "util": 580
+                },
+                "O2": {
+                    "rent": 1320,
+                    "util": 580
+                },
+                "O3": {
+                    "rent": 1530,
+                    "util": 580
+                },
+                "O4": {
+                    "rent": 1840,
+                    "util": 580
+                },
+                "O5": {
+                    "rent": 1970,
+                    "util": 580
+                },
+                "O6": {
+                    "rent": 2200,
+                    "util": 580
+                }
+            }
+        },
+        "es_moron": {
+            "name": "Morón Air Base",
+            "country": "Spain",
+            "currency": "EUR",
+            "rates": {
+                "E1": {
+                    "rent": 1100,
+                    "util": 560
+                },
+                "E2": {
+                    "rent": 1100,
+                    "util": 560
+                },
+                "E3": {
+                    "rent": 1100,
+                    "util": 560
+                },
+                "E4": {
+                    "rent": 1100,
+                    "util": 560
+                },
+                "E5": {
+                    "rent": 1220,
+                    "util": 560
+                },
+                "E6": {
+                    "rent": 1400,
+                    "util": 560
+                },
+                "E7": {
+                    "rent": 1400,
+                    "util": 560
+                },
+                "E8": {
+                    "rent": 1400,
+                    "util": 560
+                },
+                "E9": {
+                    "rent": 1680,
+                    "util": 560
+                },
+                "W1": {
+                    "rent": 1220,
+                    "util": 560
+                },
+                "W2": {
+                    "rent": 1400,
+                    "util": 560
+                },
+                "W3": {
+                    "rent": 1680,
+                    "util": 560
+                },
+                "W4": {
+                    "rent": 1680,
+                    "util": 560
+                },
+                "W5": {
+                    "rent": 1800,
+                    "util": 560
+                },
+                "O1": {
+                    "rent": 1220,
+                    "util": 560
+                },
+                "O2": {
+                    "rent": 1220,
+                    "util": 560
+                },
+                "O3": {
+                    "rent": 1400,
+                    "util": 560
+                },
+                "O4": {
+                    "rent": 1680,
+                    "util": 560
+                },
+                "O5": {
+                    "rent": 1800,
+                    "util": 560
+                },
+                "O6": {
+                    "rent": 2000,
+                    "util": 560
+                }
+            }
+        }
+    },
+    "withoutDependentsMultiplier": {
+        "rent": 0.9,
+        "util": 0.75
+    }
+}

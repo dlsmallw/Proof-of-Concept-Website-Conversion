@@ -1,0 +1,124 @@
+{
+  "year": "2025-2026",
+  "academicYear": "August 2025 - July 2026",
+  "source": "VA.gov published rates, DoD TA policy",
+  "postGiBill": {
+    "chapter": 33,
+    "name": "Post-9/11 GI Bill",
+    "maxMonths": 36,
+    "tuition": {
+      "publicInState": "Full tuition & fees (paid to school)",
+      "publicOutOfState": "Full in-state tuition & fees (some states waive difference via Veterans Access Act)",
+      "privateOrForeign": 26381.37,
+      "privateCap": 26381.37,
+      "vocationalOrOJT": "Proportional based on training type"
+    },
+    "monthlyHousing": "E-5 with dependents BAH rate at school ZIP (full-time only)",
+    "housingOnlineOnly": 1054.50,
+    "housingOnlineOnlyNote": "50% of national average BAH for E-5 w/dep",
+    "bookStipend": 1000,
+    "bookStipendNote": "$1,000/year, paid proportionally per term ($500/semester, $333/quarter)",
+    "yellowRibbon": "School-specific: VA matches school's contribution dollar-for-dollar above the cap",
+    "kicker": {
+      "available": true,
+      "maxMonthly": 950,
+      "note": "Additional $100-$950/month if you contributed to MGIB and elected Post-9/11"
+    },
+    "eligibilityTiers": [
+      {"percent": 100, "activeDutyMonths": 36, "description": "36+ months active duty or Purple Heart"},
+      {"percent": 90, "activeDutyMonths": 30, "description": "30-35 months active duty"},
+      {"percent": 80, "activeDutyMonths": 24, "description": "24-29 months active duty"},
+      {"percent": 70, "activeDutyMonths": 18, "description": "18-23 months active duty"},
+      {"percent": 60, "activeDutyMonths": 12, "description": "12-17 months active duty (or 30+ days with disability discharge)"},
+      {"percent": 50, "activeDutyMonths": 6, "description": "6-11 months active duty (only with disability discharge)"}
+    ],
+    "transferRules": {
+      "serviceObligation": "Must commit to 4 additional years of service at time of transfer",
+      "transferTo": "Spouse and/or children",
+      "childAgeLimit": "Must use by age 26 (some exceptions)",
+      "spouseLimit": "15 years from last discharge"
+    }
+  },
+  "montgomeryGiBill": {
+    "chapter": 30,
+    "name": "Montgomery GI Bill (MGIB)",
+    "maxMonths": 36,
+    "monthlyRateFullTime": 2185.20,
+    "monthlyRateThreeQuarter": 1638.90,
+    "monthlyRateHalfTime": 1092.60,
+    "buyUp": {
+      "contribution": 600,
+      "additionalMonthly": 150,
+      "note": "Pay $600 during service for extra $150/month ($5,400 total benefit)"
+    },
+    "note": "Most veterans benefit from switching to Post-9/11 GI Bill. MGIB may be better if: (1) attending a very cheap school where the flat rate exceeds tuition+housing, (2) attending online-only and want higher payment than Post-9/11 online rate, or (3) living in a very low-cost area."
+  },
+  "vrAndE": {
+    "chapter": 31,
+    "name": "Veteran Readiness & Employment (VR&E)",
+    "formalName": "Veteran Readiness and Employment (formerly Vocational Rehabilitation)",
+    "maxMonths": 48,
+    "maxMonthsNote": "Up to 48 months; can extend beyond with VA approval for certain programs",
+    "tuition": "No cap — full tuition and fees at any approved school",
+    "subsistenceAllowance": "Same as Post-9/11 GI Bill housing rate (E-5 w/dep BAH at school ZIP for full-time)",
+    "booksAndSupplies": "Actual costs covered (no cap, must be required for program)",
+    "equipment": "Laptop, software, tools, uniforms, and supplies if required for program",
+    "tutoring": "Up to 12 hours/month if needed",
+    "employmentServices": "Resume writing, interview prep, job placement assistance, follow-up for 60 months after employment",
+    "eligibility": {
+      "disabilityRating": "10% or higher service-connected rating with employment handicap, OR 20% or higher with serious employment handicap",
+      "dischargeType": "Other than dishonorable",
+      "timeLimit": "Generally within 12 years of discharge or VA rating notification",
+      "note": "Employment handicap means your disability creates a barrier to preparing for, obtaining, or maintaining suitable employment"
+    },
+    "tracks": [
+      {"number": 1, "name": "Reemployment", "description": "Return to your previous employer with accommodations for your disability"},
+      {"number": 2, "name": "Rapid Access to Employment", "description": "Short-term training, certifications, or resume services to get employed quickly in a field matching your skills"},
+      {"number": 3, "name": "Self-Employment", "description": "VA provides business plan development, tools, equipment, inventory, and business consulting to start your own business"},
+      {"number": 4, "name": "Employment Through Long-Term Services", "description": "Full degree programs (associate through doctorate), certifications, and OJT. This is where the 48-month education benefit applies."},
+      {"number": 5, "name": "Independent Living", "description": "For veterans with serious disabilities affecting daily living. Services to increase independence at home and in the community."}
+    ],
+    "advantages": [
+      "No tuition cap (vs $26,381 GI Bill private school cap)",
+      "48 months vs 36 months",
+      "Books, supplies, laptop, tools covered at actual cost",
+      "12 hours/month tutoring included",
+      "Employment services and job placement for 5 years after completion",
+      "Can be used after GI Bill is exhausted for additional months",
+      "Self-employment track can fund a business startup",
+      "Subsistence during breaks between terms (long-term track)"
+    ]
+  },
+  "tuitionAssistance": {
+    "name": "Tuition Assistance (TA)",
+    "annualCap": 4500,
+    "perCreditHour": 250,
+    "semesterHourCap": 16,
+    "eligibility": "Active duty (each branch has specific time-in-service requirements, typically 1 year)",
+    "serviceObligation": "Must serve 2 years after using TA or repay proportionally",
+    "note": "Does not reduce GI Bill months. Can be used simultaneously with GI Bill top-up in some cases.",
+    "branches": {
+      "army": {"waitPeriod": "12 months from first duty station", "gradeReq": "None specific"},
+      "navy": {"waitPeriod": "Varies by command", "gradeReq": "None specific"},
+      "airForce": {"waitPeriod": "12 months TIS", "gradeReq": "None specific"},
+      "marines": {"waitPeriod": "24 months TIS for first TA use", "gradeReq": "None specific"},
+      "coastGuard": {"waitPeriod": "12 months TIS", "gradeReq": "None specific"}
+    }
+  },
+  "credentialingAssistance": {
+    "name": "Credentialing Assistance (CA)",
+    "annualCap": 4000,
+    "covers": "Certifications, licenses, and associated prep courses and exams",
+    "eligibility": "Active duty service members",
+    "note": "Separate from TA — can use both in the same year ($8,500 combined)"
+  },
+  "vetTec": {
+    "name": "VET TEC (Veteran Employment Through Technology Education Courses)",
+    "tuition": "Full tuition covered (paid to training provider)",
+    "housing": "E-5 w/dep BAH at training location (same as GI Bill)",
+    "duration": "Programs range from 2-26 weeks",
+    "giMonthsUsed": "Does not consume GI Bill months (but must have at least 1 day of unexpired GI Bill eligibility)",
+    "fields": ["Computer programming", "Data processing", "Computer software", "Information science", "Media applications"],
+    "note": "One of the most underutilized VA benefits. Free coding bootcamp + full BAH with essentially no GI Bill cost."
+  }
+}
