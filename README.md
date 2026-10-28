@@ -1,73 +1,68 @@
-# React + TypeScript + Vite
+# React Website Migration – Proof of Concept
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project is a proof of concept exploring the conversion of a traditional static HTML website into a modern React web application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Built with **React 19, React Router 7, Vite, and TypeScript**, the application explores a component-based architecture that separates website content from presentation. It also uses **React Markdown** and supporting Markdown-processing libraries to load, parse, and render content from Markdown files.
 
-## React Compiler
+The goal is to establish a more maintainable and extensible foundation for the original website, making it easier to manage content, reuse UI components, and expand functionality over time.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- **Component-Based Architecture:** Breaks website layouts and functionality into reusable React components.
+- **Client-Side Routing:** Uses React Router to organize navigation and page rendering.
+- **Markdown Content Rendering:** Renders Markdown content as React elements using React Markdown.
+- **Markdown Processing:** Includes support for frontmatter, directives, and additional Markdown/HTML processing through the Remark and Rehype ecosystems.
+- **Metadata and Structured Data:** Includes tools for managing document metadata and defining structured data.
+- **Responsive UI Components:** Uses Bootstrap and React Bootstrap for styling and interface components.
+- **Development and Quality Tools:** Includes ESLint and TypeScript checks to support code quality and maintainability.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Technology Stack
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### Core Technologies
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+- [React 19](https://react.dev/) – Component-based user interface development.
+- [React Router 7](https://reactrouter.com/) – Routing and application development.
+- [Vite 8](https://vite.dev/) – Development tooling and production builds.
+- [TypeScript](https://www.typescriptlang.org/) – Static type checking.
+- JavaScript / JSX / TSX, HTML, and CSS.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### UI and Styling
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+- [Bootstrap 5](https://getbootstrap.com/) – Responsive styling and layout utilities.
+- [React Bootstrap](https://react-bootstrap.github.io/) – Bootstrap components implemented for React.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### Markdown and Content Processing
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- [React Markdown](https://github.com/remarkjs/react-markdown) – Renders Markdown content as React elements.
+- [Gray Matter](https://github.com/jonschlinkert/gray-matter) – Parses frontmatter metadata from content files.
+- [Remark](https://github.com/remarkjs/remark) plugins – Support for Markdown frontmatter and directives.
+- [Rehype](https://github.com/rehypejs/rehype) plugins – Support for processing HTML and formatting generated markup.
+- [mdast](https://github.com/syntax-tree/mdast) – Markdown abstract syntax tree types.
+
+### Metadata and Supporting Libraries
+
+- [React Helmet Async](https://github.com/staylor/react-helmet-async) – Document metadata management.
+- [React Schema.org](https://github.com/6h1r0/React-Component-for-Schema.org) and [Schema.org TypeScript definitions](https://github.com/google/schema-dts) – Structured data support.
+- `react-gtm-module` – Google Tag Manager integration.
+- `isbot` – Bot detection utilities.
+
+### Development and Quality Assurance
+
+- [ESLint](https://eslint.org/) – Static analysis and linting.
+- [TypeScript ESLint](https://typescript-eslint.io/) – TypeScript-aware linting.
+- [React Hooks ESLint Plugin](https://www.npmjs.com/package/eslint-plugin-react-hooks) – React Hooks linting rules.
+- [tsx](https://github.com/privatenumber/tsx) – TypeScript execution tooling.
+
+## Project Goals
+
+This proof of concept explores:
+
+- Migrating existing static HTML pages into reusable React components.
+- Introducing React Router for application routing.
+- Loading and rendering Markdown-based blog content separately from page layouts.
+- Supporting content metadata and richer Markdown syntax.
+- Improving maintainability through shared components and consistent styling.
+- Establishing a foundation for future features and a broader website migration.
+  
