@@ -232,9 +232,9 @@ const BlogPreview = {
 }
 
 const APPLICATION = {
-    baseURL: "https://milmultiplier.com",
+    baseURL: "",
     gtagManagerArgs: {
-        gtmId: "G-MPJ0J8R8EZ",
+        gtmId: "",
     },
 }
 
